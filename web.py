@@ -39,6 +39,7 @@ for key in worklist:
                                  'addr:city','addr:state','addr:postcode',
                                  'phone','operator','isced:level']:
                     outfile.write("{}={}<br/>\n".format(tag,record[tag]))
+                outfile.write("amenity=school<br/>\n")
                 outfile.write("</p>\n")
         outfile.write(foot)
 index.write("</ul>")
