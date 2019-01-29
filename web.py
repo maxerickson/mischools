@@ -22,7 +22,7 @@ districtlists['indy']=districtlists['']
 del districtlists['']
 worklist=['indy']+sorted(alphas.keys())
 alphas['indy']=['indy']
-index=open("docs/dists.html","w")
+index=open("docs/index.html","w")
 index.write(head)
 index.write("<ul>\n")
 for key in worklist:
