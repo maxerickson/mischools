@@ -1,11 +1,22 @@
 import csv
 import collections
 
-head='''<html><body>
+head='''<html><head>
+<style>
+.reviewed {background-color: #55aa55;}
+</style>
+</head>
+<body>
 '''
 foot='''</body></html>'''
 
 districtlists=collections.defaultdict(list)
+
+reviewed=set()
+with open("reviewed") as infile:
+    for line in infile:
+        reviewed.add(line.strip())
+print(reviewed)
 
 with open("formatted.csv") as infile:
     csvin=csv.DictReader(infile)
@@ -31,6 +42,10 @@ for key in worklist:
     with open("docs/"+key+".html", "w") as outfile:
         outfile.write(head)
         for dist in sorted(alphas[key]):
+            if dist in reviewed:
+                outfile.write("<div class=reviewed>")
+            else:
+                outfile.write("<div>")
             outfile.write("<h3>{}</h3>\n".format(dist))
             for record in districtlists[dist]:
                 outfile.write("<h5>{}</h5>\n".format(record["name"]))
@@ -41,6 +56,7 @@ for key in worklist:
                     outfile.write("{}={}<br/>\n".format(tag,record[tag]))
                 outfile.write("amenity=school<br/>\n")
                 outfile.write("</p>\n")
+            outfile.write("</div>\n")
         outfile.write(foot)
 index.write("</ul>")
-index.write(foot)
+index.write(foot)       
