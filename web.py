@@ -3,7 +3,7 @@ import collections
 
 head='''<html><head>
 <style>
-.reviewed {background-color: #55aa55;}
+.reviewed {background-color: #7c78;}
 </style>
 </head>
 <body>
