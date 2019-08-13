@@ -1,0 +1,12 @@
+SELECT DISTINCT ?item ?itemLabel ?page_title ?gnis ?website WHERE {
+  ?item wdt:P31 wd:Q9826;
+        ?magic wd:Q1166.
+  OPTIONAL { ?item wdt:P590 ?gnis. }
+  OPTIONAL { ?item wdt:P856 ?website. }
+  OPTIONAL {
+    ?article schema:about ?item.
+    ?article schema:isPartOf <https://en.wikipedia.org/>.
+    ?article schema:name ?page_title.
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}

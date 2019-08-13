@@ -68,6 +68,13 @@ def parse_grades(grades):
     return ";".join(isced)
 
 
+wikidata=dict()
+with open("wikidata.csv") as source:
+    data=csv.reader(source)
+    header=next(data)
+    for line in data:
+        wikidata[line[2]]=line
+
 with open("formatted.csv", 'w') as outfile:
     csvout=csv.writer(outfile)
     with open("reduced.csv") as infile:
@@ -83,6 +90,7 @@ with open("formatted.csv", 'w') as outfile:
         header[8]="isced:level"
         header[9]="religion"
         header.append("denomination")
+        header.extend(["wikidata","wikipedia","website"])
         header.insert(3,"addr:housenumber")
         # remove status
         header.pop(1)
@@ -115,6 +123,13 @@ with open("formatted.csv", 'w') as outfile:
             number,street=parse_street(row[3])
             row[3]=street.title()
             row.insert(3,number)
+            # add wikidata/wikipedia infos
+            if name in wikidata:
+                print(name)
+                wd=wikidata[name]
+                row.append(wd[0].lstrip("http://www.wikidata.org/entity/"))
+                row.append(wd[2])
+                row.append(wd[4])
             # remove status
             row.pop(1)
             csvout.writerow(row)

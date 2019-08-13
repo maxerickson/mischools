@@ -31,4 +31,32 @@
 <li><a href="W.html">W</a></li>
 <li><a href="Y.html">Y</a></li>
 <li><a href="Z.html">Z</a></li>
-</ul></body></html>
+</ul>
+<script>
+handleClick=function(e){
+  e.preventDefault();
+  e.stopPropagation();
+  req = new XMLHttpRequest();
+  req.onreadystatechange = function(){
+    if (this.readyState == 4 && this.status == 200) {
+      var pop=document.createElement('div');
+      pop.style.position="fixed";
+      pop.style.top="10px";
+      pop.style.left="50%";
+      pop.style.padding="10px";
+      pop.style.backgroundColor="white";
+      pop.style.outline="black solid thick";
+      pop.innerHTML="Done";
+      document.body.appendChild(pop);
+      setTimeout(function(){document.body.removeChild(pop)}, 1500);
+    };
+  };
+  req.open('GET', e.target.href, true);
+  req.send(null);
+};
+links=document.getElementsByClassName("im");
+for(var i=0; i<links.length; i++){
+  links[i].addEventListener("click", handleClick, "false");
+}
+</script>
+</body></html>

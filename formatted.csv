@@ -1,4 +1,4 @@
-name,phone,addr:housenumber,addr:street,addr:city,addr:state,addr:postcode,operator,isced:level,religion,denomination
+name,phone,addr:housenumber,addr:street,addr:city,addr:state,addr:postcode,operator,isced:level,religion,denomination,wikidata,wikipedia,website
 Academy of International Studies,+1 313 873 9900,2609,Poland Street,Hamtramck,MI,48212,,0;1;2,,
 Academy of Sacred Heart,+1 248 646 8900,1250,Kensington Rd,Bloomfield Hills,MI,48304,,0;1;2;3,christian,roman_catholic
 Acton Academy Ann Arbor (A2),+1 734 788 2768,4115,Jackson Rd,Ann Arbor,MI,48103,,1,,
@@ -44,7 +44,7 @@ Bethlehem Lutheran School,+1 989 755 1146,2777,Hermansau Rd,Saginaw,MI,48604,,0;
 Beverly Hills Academy,+1 248 433 9470,32605,Bellvine Trail,Beverly Hills,MI,48025,,0;1;2,muslim,
 Bishop Baraga Catholic School,+1 906 774 2277,406,West B St,Iron Mountain,MI,49801,,0;1;2,christian,roman_catholic
 Bishop Baraga Catholic School,+1 231 627 5608,623,West Lincoln Ave,Cheboygan,MI,49721,,0;1;2,christian,roman_catholic
-Bishop Foley Catholic High School,+1 248 585 1210,32000,Campbell Rd,Madison Heights,MI,48071,,3,christian,roman_catholic
+Bishop Foley Catholic High School,+1 248 585 1210,32000,Campbell Rd,Madison Heights,MI,48071,,3,christian,roman_catholic,Q4917555,Bishop Foley Catholic High School,http://www.bishopfoley.org
 Bishop Kelley Memorial School,+1 810 664 5011,926,West Nepessing St,Lapeer,MI,48446,,0;1;2,christian,roman_catholic
 Blessed Sacrament School,+1 989 835 6777,3109,Swede Ave,Midland,MI,48642,,0;1,christian,roman_catholic
 Bloomfield Christian School,+1 248 457 1510,3570,Telegraph Road,Bloomfield Hills,MI,48302,,0;1;2;3,,
@@ -122,7 +122,7 @@ Daystar Christian Academy,+1 231 734 3771,3976,80Th Ave,Evart,MI,49631,,0;1;2;3,
 Dearborn Heights Montessori Center,+1 313 359 3000,466,North John Daly Rd,Dearborn Heights,MI,48127,,0;1;2,,
 DeLaSalle Collegiate High School,+1 586 778 2207,14600,Common Rd,Warren,MI,48088,,3,christian,roman_catholic
 Demick School,+1 586 553 3199,29808,Autumn Ln,Warren,MI,48088,,3,,
-Detroit Catholic Central High School,+1 248 596 3810,27225,Wixom Rd,Novi,MI,48374,,3,christian,roman_catholic
+Detroit Catholic Central High School,+1 248 596 3810,27225,Wixom Rd,Novi,MI,48374,,3,christian,roman_catholic,Q5265872,Detroit Catholic Central High School,http://www.catholiccentral.net
 Detroit Christian Schools of Excellence,+1 313 281 8144,19370,Greenfield,Detroit,MI,48235,,0;1;2;3,,
 Detroit Country Day Junior School,+1 248 646 7717,3600,Bradway Blvd,Bloomfield Hills,MI,48301,,1,,
 Detroit Country Day Lower School,+1 248 646 7717,3003,West Maple Rd,Bloomfield Hills,MI,48301,,0;1,,
@@ -130,7 +130,7 @@ Detroit Country Day Middle School,+1 248 646 7717,22400,Hillview Ln,Beverly Hill
 Detroit Country Day Upper School,+1 248 646 7717,22305,West 13 Mile Rd,Beverly Hills,MI,48025,,3,,
 Detroit Cristo Rey High School,+1 313 843 2747,5679,West Vernor Hwy,Detroit,MI,48209,,3,christian,roman_catholic
 Divine Child Elementary School,+1 313 562 1090,25001,Herbert Weier Dr,Dearborn,MI,48128,,0;1;2,christian,roman_catholic
-Divine Child High School,+1 313 562 1990,1001,North Silvery Ln,Dearborn,MI,48128,,3,christian,roman_catholic
+Divine Child High School,+1 313 562 1990,1001,North Silvery Ln,Dearborn,MI,48128,,3,christian,roman_catholic,Q5284076,Divine Child High School,http://www.divinechildhighschool.org/
 Divine Grace Lutheran School,+1 248 391 1131,3000,South Lapeer Rd,Lake Orion,MI,48359,,0;1;2,christian,lutheran
 Divine Providence Academy - Conklin,+1 616 899 5300,18768,8Th Ave,Conklin,MI,49403,,0;1;2,christian,roman_catholic
 Divine Providence Academy - Ravenna,+1 231 853 6743,3376,Thomas St,Ravenna,MI,49451,,0;1;2,christian,roman_catholic
@@ -172,7 +172,7 @@ Father Marquette Catholic School,+1 906 225 1129,500,South 4Th St,Marquette,MI,4
 Father Marquette Middle School,+1 906 226 7912,414,West College Ave,Marquette,MI,49855,,1;2,christian,roman_catholic
 Freedom Christian School,+1 517 523 3426,9400,East Beecher Rd,Pittsford,MI,49271,,0;1;2;3,,
 Fremont Christian School,+1 231 924 2740,208,Hillcrest Ave,Fremont,MI,49412,,0;1;2,christian,
-Gabriel Richard Catholic High School,+1 734 284 1875,15325,Pennsylvania Rd,Riverview,MI,48193,,3,christian,roman_catholic
+Gabriel Richard Catholic High School,+1 734 284 1875,15325,Pennsylvania Rd,Riverview,MI,48193,,3,christian,roman_catholic,Q5515820,Gabriel Richard Catholic High School,http://www.gabrielrichard.org
 Gagie School,+1 269 342 8008,615,Fairview Ave,Kalamazoo,MI,49008,,0;1;2,,
 Genesee Academy,+1 810 250 7557,9447,Corunna Rd,Swartz Creek,MI,48473,,0;1;2;3,muslim,
 Genesee Christian School,+1 810 743 3108,1223,South Belsay Rd,Burton,MI,48509,,0;1;2;3,,
@@ -193,7 +193,7 @@ Grand Haven Christian School,+1 616 842 5420,1102,Grant Ave,Grand Haven,MI,49417
 Grand Rapids Adventist Academy,+1 616 791 9797,1151,Oakleigh Rd Nw,Grand Rapids,MI,49504,,0;1;2;3,christian,seventh_day_adventist
 Grand Rapids Christian Elementary School,+1 616 574 6500,1050,"Iroquois, Se",Grand Rapids,MI,49506,,0;1,christian,
 Grand Rapids Christian Elementary School - Evergreen Campus,+1 616 574 5900,1630,Griggs Street Se,Grand Rapids,MI,49506,,0;1,,
-Grand Rapids Christian High School,+1 616 574 5500,2300,Plymouth Ave Se,Grand Rapids,MI,49506,,3,christian,
+Grand Rapids Christian High School,+1 616 574 5500,2300,Plymouth Ave Se,Grand Rapids,MI,49506,,3,christian,,Q5594999,Grand Rapids Christian High School,
 Grand Rapids Christian Middle School,+1 616 574 6300,2036,"Chesaning Drive, Se",Grand Rapids,MI,49506,,1;2,christian,
 Grandville Christian School,+1 616 538 9710,3934,Wilson Ave Sw,Grandville,MI,49418,,0;1,christian,
 Grant Christian School,+1 231 834 8445,12931,Poplar Ave # G,Grant,MI,49327,,0;1;2,christian,
@@ -295,7 +295,7 @@ Living Stones Academy,+1 616 803 9654,1415,"Lyon Street, Se",Grand Rapids,MI,495
 Livingston Christian Schools,+1 810 900 1200,7669,Brighton Rd,Brighton,MI,48116,,0;1;2;3,,
 Loyola High School,+1 313 861 2407,15325,Pinehurst St,Detroit,MI,48238,,3,christian,roman_catholic
 Ludington Area Catholic School,+1 231 843 3188,700,East Bryant Rd,Ludington,MI,49431,,0;1;2,christian,roman_catholic
-Lumen Christi Catholic School,+1 517 787 0630,3483,Spring Arbor Rd,Jackson,MI,49203,,2;3,christian,roman_catholic
+Lumen Christi Catholic School,+1 517 787 0630,3483,Spring Arbor Rd,Jackson,MI,49203,,2;3,christian,roman_catholic,Q6703185,Lumen Christi Catholic School,http://jcslumenchristi.org/
 Lutheran High School NW,+1 248 852 6677,1000,Bagley Dr,Rochester Hills,MI,48309,,3,christian,lutheran
 Lutheran High School-North,+1 586 781 9151,16825,24 Mile Rd,Macomb,MI,48042,,3,christian,lutheran
 Lutheran High School-Westland,+1 734 422 2090,33300,Cowan Rd,Westland,MI,48185,,3,christian,lutheran
@@ -356,7 +356,7 @@ Northwest Michigan House of Hope,+1 231 946 5350,55,South Hope Ridge,Traverse Ci
 Notre Dame Preparatory School,+1 248 373 5300,1300,Giddings Rd,Pontiac,MI,48340,,3,christian,roman_catholic
 Nottawa Christian Day School,+1 269 467 6454,26173,M-86,Nottawa,MI,49075,,1;2;3,,
 Nouvel Catholic Central Elementary,+1 989 792 2361,2136,Berberovich Dr,Saginaw,MI,48603,,0;1;2,christian,roman_catholic
-Nouvel Catholic Central High School,+1 989 791 4330,2555,Wieneke Rd,Saginaw,MI,48603,,3,christian,roman_catholic
+Nouvel Catholic Central High School,+1 989 791 4330,2555,Wieneke Rd,Saginaw,MI,48603,,3,christian,roman_catholic,Q7063955,Nouvel Catholic Central High School,http://www.sacschools.org/nouvel/home.aspx
 Novi Christian Academy ,+1 248 668 7100,40800,West 13 Mile Rd,Novi,MI,48377,,0;1;2;3,,
 Oak Arbor New Church School,+1 248 652 3420,495,Oak Arbor Cir W,Rochester,MI,48306,,0;1;2,,
 Oakdale Academy,+1 248 333 4309,3200,Beacham Dr,Waterford,MI,48329,,0;1;2;3,christian,
@@ -650,12 +650,12 @@ Walnut Corner School,+1 517 726 1393,7655,West Kinsel Hwy,Vermontville,MI,49096,
 Warren Woods Christian School,+1 586 772 8787,14000,East 13 Mile Rd,Warren,MI,48088,,0;1;2,christian,
 Washtenaw Christian Academy,+1 734 429 7733,7200,Moon Rd,Saline,MI,48176,,0;1;2;3,,
 Waterford Adventist School,+1 248 682 6262,5725,Pontiac Lake Rd,Waterford,MI,48327,,1;2,christian,seventh_day_adventist
-West Catholic High School,+1 616 233 5900,1801,Bristol Ave Nw,Grand Rapids,MI,49504,,3,christian,roman_catholic
+West Catholic High School,+1 616 233 5900,1801,Bristol Ave Nw,Grand Rapids,MI,49504,,3,christian,roman_catholic,Q7984672,West Catholic High School,http://grwestcatholic.org
 West Highland Christian Academy,+1 248 887 6698,1116,South Hickory Ridge Rd,Milford,MI,48380,,0;1;2;3,,
-West Michigan Lutheran High School,+1 616 455 2200,601,36Th Street Sw,Wyoming,MI,49509,,3,christian,lutheran
+West Michigan Lutheran High School,+1 616 455 2200,601,36Th Street Sw,Wyoming,MI,49509,,3,christian,lutheran,Q7985909,West Michigan Lutheran High School,http://www.wmlhs.org
 West Shore Lutheran School,+1 231 755 1048,3225,Roosevelt Rd,Muskegon,MI,49441,,0;1;2,christian,lutheran
 West Side Christian School,+1 616 453 3925,955,Westend Ave Nw,Grand Rapids,MI,49504,,0;1;2,christian,
-Western Michigan Christian High School,+1 231 799 9644,455,East Ellis Rd,Muskegon,MI,49441,,2;3,christian,
+Western Michigan Christian High School,+1 231 799 9644,455,East Ellis Rd,Muskegon,MI,49441,,2;3,christian,,Q14716347,Western Michigan Christian High School,http://www.wmchs.net/
 Westland Christian Academy,+1 734 326 3581,34033,Palmer Rd,Westland,MI,48186,,1;2;3,,
 Westside Christian Academy,+1 313 255 5760,9540,Bramell,Redford,MI,48239,,0;1;2;3,christian,
 White Pine Montessori Children's Center,+1 989 775 8272,701,E Maple St,Mt Pleasant,MI,48858,,0;1,,
@@ -755,7 +755,7 @@ Seiter Education Service Center,+1 616 225 4724,1401,East Van Deinse St,Greenvil
 Muskegon County Juvenile Transition Center,+1 231 767 7248,205,E. Apple Ave,Muskegon,MI,49442,,1;2;3,,
 Wesley School,+1 231 773 9158,915,Wesley Ave,Muskegon,MI,49442,,0;1;2;3,,
 Education and Activity Center,+1 231 924 7919,4554,West Career Pathway Ct,Fremont,MI,49412,,0;1;2;3,,
-International Academy,+1 248 341 5905,1020,East Square Lake Rd,Bloomfield Hills,MI,48304,,3,,
+International Academy,+1 248 341 5905,1020,East Square Lake Rd,Bloomfield Hills,MI,48304,,3,,,Q14716157,International Academy,http://www.iatoday.org/
 Oakland Opportunity Academy,+1 248 668 5678,1000,Beck Road,Wixom,MI,48393,,3,,
 Virtual Learning Academy Consortium,+1 248 209 2037,2111,Pontiac Lake Road,Waterford,MI,48328,,0;1;2;3,,
 Juvenile Detention Center,+1 616 738 8970,12110,Fillmore St,West Olive,MI,49460,,1;2;3,,
@@ -791,7 +791,7 @@ Developmental Classrooms,+1 231 898 1608,2130,West Us Highway 10,Ludington,MI,49
 Early Childhood,+1 231 898 1602,844,Griswold St,Hart,MI,49420,,0,,
 Wexford-Missaukee ISD Special Education,+1 231 876 2275,9907,East 13Th St,Cadillac,MI,49601,,0;1;2;3,,
 Allegan Alternative High School,+1 269 673 5433,550,5Th St,Allegan,MI,49010,Allegan Public Schools,3,,
-Allegan High School,+1 269 673 7002,1560,M-40 N,Allegan,MI,49010,Allegan Public Schools,3,,
+Allegan High School,+1 269 673 7002,1560,M-40 N,Allegan,MI,49010,Allegan Public Schools,3,,,Q4731223,Allegan High School,http://www.alleganpublicschools.org/highschool/hshome.html
 Dawson Elementary School,+1 269 673 6925,125,Elm St,Allegan,MI,49010,Allegan Public Schools,0;1,,
 L.E. White Middle School,+1 269 673 2241,3300,115Th Ave,Allegan,MI,49010,Allegan Public Schools,2,,
 North Ward Elementary School,+1 269 673 6003,440,River St,Allegan,MI,49010,Allegan Public Schools,0;1,,
@@ -904,7 +904,7 @@ STEAM Academy at MLK,+1 269 605 2400,750,E Britain Ave,Benton Harbor,MI,49022,Be
 Benton Harbor Charter School Academy,+1 269 925 3807,455,Riverview Dr,Benton Harbor,MI,49022,Benton Harbor Charter School Academy,0;1;2,,
 Berrien County Truancy Academy,+1 269 471 2891,1,Sylvester Ave,Berrien Springs,MI,49103,Berrien Springs Public Schools,2,,
 Berrien Springs Discovery Academy,+1 269 471 2593,1,Sylvester Ave,Berrien Springs,MI,49103,Berrien Springs Public Schools,2;3,,
-Berrien Springs High School,+1 269 471 1748,1,Sylvester Ave,Berrien Springs,MI,49103,Berrien Springs Public Schools,3,,
+Berrien Springs High School,+1 269 471 1748,1,Sylvester Ave,Berrien Springs,MI,49103,Berrien Springs Public Schools,3,,,Q4894701,Berrien Springs High School,
 Berrien Springs Middle School,+1 269 471 2796,1,Sylvester Ave,Berrien Springs,MI,49103,Berrien Springs Public Schools,2,,
 Berrien Springs Virtual Academy,+1 269 473 0500,1,Sylvester Ave,Berrien Springs,MI,49103,Berrien Springs Public Schools,0;1;2;3,,
 Mars Elementary School,+1 269 471 1836,1,Sylvester Ave,Berrien Springs,MI,49103,Berrien Springs Public Schools,0;1,,
@@ -929,7 +929,7 @@ Brandywine Middle School,+1 269 683 4800,1700,Bell Rd,Niles,MI,49120,Brandywine 
 Brandywine Senior High School,+1 269 683 4800,1700,Bell Rd,Niles,MI,49120,Brandywine Community Schools,3,,
 Merritt Elementary School,+1 269 684 6511,1620,Lasalle Ave,Niles,MI,49120,Brandywine Community Schools,0;1,,
 Bridgman Elementary School,+1 269 466 0241,3891,Lake St,Bridgman,MI,49106,Bridgman Public Schools,0;1,,
-Bridgman High School,+1 269 466 0223,9964,Gast Rd,Bridgman,MI,49106,Bridgman Public Schools,3,,
+Bridgman High School,+1 269 466 0223,9964,Gast Rd,Bridgman,MI,49106,Bridgman Public Schools,3,,,Q28147907,Bridgman High School,
 F.C. Reed Middle School,+1 269 465 5410,10254,California,Bridgman,MI,49106,Bridgman Public Schools,1;2,,
 Buchanan High School,+1 269 695 8403,401,West Chicago St,Buchanan,MI,49107,Buchanan Community Schools,2;3,,
 Buchanan Middle School,+1 269 695 8406,610,West 4Th St,Buchanan,MI,49107,Buchanan Community Schools,1;2,,
@@ -938,7 +938,7 @@ Buchanan Virtual Academy,+1 269 695 8401,401,W Chicago St,Buchanan,MI,49107,Buch
 Moccasin Elementary School,+1 269 695 8408,410,Moccasin St,Buchanan,MI,49107,Buchanan Community Schools,1,,
 Ottawa Elementary School,+1 269 695 8409,109,Ottawa St,Buchanan,MI,49107,Buchanan Community Schools,0;1,,
 Coloma Elementary School,+1 269 468 2420,262,West St,Coloma,MI,49038,Coloma Community Schools,0;1,,
-Coloma High School,+1 269 468 2400,300,West Saint Joseph St,Coloma,MI,49038,Coloma Community Schools,3,,
+Coloma High School,+1 269 468 2400,300,West Saint Joseph St,Coloma,MI,49038,Coloma Community Schools,3,,,Q5147866,Coloma High School,
 Coloma Intermediate School,+1 269 468 2415,274,A South West St,Coloma,MI,49038,Coloma Community Schools,1,,
 Coloma Junior High School,+1 269 468 2405,302,West Saint Joseph St,Coloma,MI,49038,Coloma Community Schools,2,,
 Countryside Academy - Elementary,+1 269 944 5565,4821,North Street,Benton Harbor,MI,49022,Countryside Academy,0;1,,
@@ -948,7 +948,7 @@ Eau Claire Middle School,+1 269 461 6997,7450,Hochberger Road,Eau Claire,MI,4911
 Lybrook Elementary School,+1 269 461 6191,6238,West Main Street,Eau Claire,MI,49111,Eau Claire Public Schools,0;1,,
 Riverside School,+1 269 849 1343,3422,Riverside Rd,Benton Harbor,MI,49022,Hagar Township S/D #6,0;1;2,,
 Hollywood Elementary School,+1 269 428 1414,143,East John Beers Rd,Stevensville,MI,49127,Lakeshore School District (Berrien),0;1,,
-Lakeshore High School,+1 269 428 1402,5771,Cleveland Ave,Stevensville,MI,49127,Lakeshore School District (Berrien),3,,
+Lakeshore High School,+1 269 428 1402,5771,Cleveland Ave,Stevensville,MI,49127,Lakeshore School District (Berrien),3,,,Q6479030,Lakeshore High School,http://www.lakeshoreschools.k12.mi.us/high/
 Lakeshore Middle School,+1 269 428 1408,1459,West John Beers Rd,Stevensville,MI,49127,Lakeshore School District (Berrien),2,,
 Roosevelt Elementary School,+1 269 428 1416,2000,El Dorado Dr,Stevensville,MI,49127,Lakeshore School District (Berrien),0;1,,
 Stewart Elementary School,+1 269 428 1418,2750,Orchard Ln,Stevensville,MI,49127,Lakeshore School District (Berrien),0;1,,
@@ -1131,7 +1131,7 @@ Wolverine Elementary School,+1 231 525 8201,5993,Sholes St,Wolverine,MI,49799,Wo
 Wolverine Middle/High School,+1 231 525 9050,13131,Brook St,Wolverine,MI,49799,Wolverine Community School District,2;3,,
 Beaverton Elementary School,+1 989 246 3020,440,South Ross St,Beaverton,MI,48612,Beaverton Rural Schools,0;1;2,,
 Beaverton Junior/Senior High School,+1 989 246 3010,3090,Crockett Rd,Beaverton,MI,48612,Beaverton Rural Schools,2;3,,
-Clare High School,+1 989 386 7789,306,Schoolcrest Ave,Clare,MI,48617,Clare Public Schools,3,,
+Clare High School,+1 989 386 7789,306,Schoolcrest Ave,Clare,MI,48617,Clare Public Schools,3,,,Q5126181,Clare High School,
 Clare Middle School,+1 989 386 9979,209,East State St,Clare,MI,48617,Clare Public Schools,1;2,,
 Clare Pioneer High School,+1 989 386 3067,670,Ann Arbor Trl,Clare,MI,48617,Clare Public Schools,3,,
 Clare Primary School,+1 989 386 3438,205,East Wheaton Ave,Clare,MI,48617,Clare Public Schools,0;1,,
@@ -1297,7 +1297,7 @@ Atherton Junior / Senior High School,+1 810 591 9184,3354,South Genesee Rd,Burto
 Atherton Vern Van Y Educational Center,+1 810 591 0850,2400,Clarice Ave,Burton,MI,48519,Atherton Community Schools,0;1;2;3,,
 Beecher High School,+1 810 591 9281,6255,Neff Rd,Mount Morris,MI,48458,Beecher Community School District,2;3,,
 Dailey Elementary School,+1 810 591 9890,6236,Neff Rd,Mount Morris,MI,48458,Beecher Community School District,0;1;2,,
-Bendle High School,+1 810 591 5103,2283,East Scottwood Ave,Burton,MI,48529,Bendle Public Schools,3,,
+Bendle High School,+1 810 591 5103,2283,East Scottwood Ave,Burton,MI,48529,Bendle Public Schools,3,,,Q4887146,Bendle High School,
 Bendle Middle School,+1 810 591 3385,2294,East Bristol Rd,Burton,MI,48529,Bendle Public Schools,2,,
 South Bendle Elementary School,+1 810 591 0620,4341,Larkin Dr,Burton,MI,48529,Bendle Public Schools,0;1,,
 West Bendle Elementary School,+1 810 591 0880,4020,Cerdan Dr,Burton,MI,48529,Bendle Public Schools,1,,
@@ -1530,7 +1530,7 @@ Dansville Elementary School,+1 517 623 6120,1264,Adams St,Dansville,MI,48819,Dan
 Dansville High School,+1 517 623 6120,1264,Adams St,Dansville,MI,48819,Dansville Schools,3,,
 Dansville Middle School,+1 517 623 6120,1264,Adams St,Dansville,MI,48819,Dansville Schools,2,,
 Donley Elementary School,+1 517 333 7370,2961,East Lake Lansing Rd,East Lansing,MI,48823,East Lansing School District,0;1,,
-East Lansing High School,+1 517 333 7500,509,Burcham Dr,East Lansing,MI,48823,East Lansing School District,3,,
+East Lansing High School,+1 517 333 7500,509,Burcham Dr,East Lansing,MI,48823,East Lansing School District,3,,,Q5328806,East Lansing High School,https://elps.us/our-schools/east-lansing-high-school/
 Glencairn School,+1 517 333 7930,1110,Narcissus Dr,East Lansing,MI,48823,East Lansing School District,0;1,,
 MacDonald Middle School,+1 517 333 7600,1601,Burcham Dr,East Lansing,MI,48823,East Lansing School District,2,,
 Marble School,+1 517 333 7860,729,North Hagadorn Rd,East Lansing,MI,48823,East Lansing School District,0;1,,
@@ -1539,7 +1539,7 @@ Whitehills Elementary School,+1 517 333 7900,621,Pebblebrook Ln,East Lansing,MI,
 El-Hajj Malik El-Shabazz Academy,+1 517 267 8474,1028,West Barnes Ave,Lansing,MI,48910,El-Hajj Malik El-Shabazz Academy,0;1;2,,
 Great Lakes Cyber Academy - MS/HS,+1 517 381 5062,2875,Eyde Pkwy,East Lansing,MI,48823,Great Lakes Cyber Academy,2;3,,
 Great Lakes Cyber Academy HS,+1 517 381 5062,2875,Eyde Pkwy,East Lansing,MI,48823,Great Lakes Cyber Academy,3,,
-Haslett High School,+1 517 339 8249,5450,Marsh Rd,Haslett,MI,48840,Haslett Public Schools,3,,
+Haslett High School,+1 517 339 8249,5450,Marsh Rd,Haslett,MI,48840,Haslett Public Schools,3,,,Q14716126,Haslett High School,https://www.haslett.k12.mi.us/hhs
 Haslett Middle School,+1 517 339 8233,1535,Franklin St,Haslett,MI,48840,Haslett Public Schools,2,,
 Murphy Elementary School,+1 517 339 8253,1875,Lake Lansing Rd,Haslett,MI,48840,Haslett Public Schools,1,,
 Vera Ralya Elementary School,+1 517 339 8202,5645,School St,Haslett,MI,48840,Haslett Public Schools,1,,
@@ -1665,14 +1665,14 @@ Concord Middle School,+1 517 524 8854,405,South Main St,Concord,MI,49237,Concord
 Da Vinci Institute (9-12),+1 517 796 0031,2255,Emmons Rd,Jackson,MI,49201,Da Vinci Institute,3,,
 Da Vinci Institute (K-8),+1 517 780 9980,559,Murphy St,Jackson,MI,49202,Da Vinci Institute,0;1;2,,
 East Jackson Elementary,+1 517 764 1810,4340,Walz Road,Jackson,MI,49201,East Jackson Community Schools,0;1;2,,
-East Jackson Secondary School,+1 517 764 1700,1566,North Sutton Rd,Jackson,MI,49202,East Jackson Community Schools,2;3,,
+East Jackson Secondary School,+1 517 764 1700,1566,North Sutton Rd,Jackson,MI,49202,East Jackson Community Schools,2;3,,,Q5328664,East Jackson Secondary School,http://eastjacksonsecondaryschool.weebly.com/
 WAY East Jackson,+1 517 945 1335,345,N. Dettman,Jackson,MI,49202,East Jackson Community Schools,2;3,,
 Francis Street Primary School,+1 517 803 3714,1320,Francis Street,Jackson,MI,49203,Francis Street Primary School,0;1,,
 George Long Elementary School,+1 517 867 5590,829,South Union St,Grass Lake,MI,49240,Grass Lake Community Schools,0;1,,
-Grass Lake High School,+1 517 867 5570,11500,Warrior Trl,Grass Lake,MI,49240,Grass Lake Community Schools,3,,
+Grass Lake High School,+1 517 867 5570,11500,Warrior Trl,Grass Lake,MI,49240,Grass Lake Community Schools,3,,,Q14716118,Grass Lake High School,http://glhs.grasslakeschools.com/?sessionid=cbbeb0afef28eb60a6ef6c36a5f6af2f&t
 Grass Lake Middle School,+1 517 867 5550,1000,Grass Lake Rd,Grass Lake,MI,49240,Grass Lake Community Schools,2,,
 Hanover-Horton Elementary School,+1 517 563 0103,131,Fairview St,Hanover,MI,49241,Hanover-Horton School District,0;1,,
-Hanover-Horton High School,+1 517 563 0101,10000,Moscow Rd,Horton,MI,49246,Hanover-Horton School District,3,,
+Hanover-Horton High School,+1 517 563 0101,10000,Moscow Rd,Horton,MI,49246,Hanover-Horton School District,3,,,Q5649356,Hanover-Horton High School,http://www.hanoverhorton.org/vnews/display.v/SEC/Schools%7CHigh%20School
 Hanover-Horton Middle School,+1 517 563 0102,10000,Moscow Rd,Horton,MI,49246,Hanover-Horton School District,2,,
 Jackson Preparatory & Early College,+1 517 768 2093,2111,Emmons Rd,Jackson,MI,49201,Jackson Preparatory & Early College,2;3,,
 Bennett School,+1 517 841 2730,820,Bennett St,Jackson,MI,49202,Jackson Public Schools,0;1,,
@@ -1706,7 +1706,7 @@ Springport Elementary School,+1 517 857 3465,300,West Main St,Springport,MI,4928
 Springport High School,+1 517 857 3475,300,West Main St,Springport,MI,49284,Springport Public Schools,3,,
 Springport Middle School,+1 517 857 3445,300,W Main St,Springport,MI,49284,Springport Public Schools,2,,
 Townsend Elementary School,+1 517 784 6133,1005,Floyd Ave,Jackson,MI,49203,Vandercook Lake Public Schools,0;1,,
-Vandercook Lake High School,+1 517 782 8167,1000,East Golf Ave,Jackson,MI,49203,Vandercook Lake Public Schools,2;3,,
+Vandercook Lake High School,+1 517 782 8167,1000,East Golf Ave,Jackson,MI,49203,Vandercook Lake Public Schools,2;3,,,Q14716314,Vandercook Lake High School,http://www.vandyschools.org/webapp
 Vandercook Lake Virtual Academy,+1 517 782 9044,1000,East Golf Ave,Jackson,MI,49203,Vandercook Lake Public Schools,2;3,,
 Bean Elementary School,+1 517 841 8470,3201,Noble Rd,Spring Arbor,MI,49283,Western School District,0;1,,
 Parma Elementary School,+1 517 841 8670,385,Elizabeth St,Parma,MI,49269,Western School District,0;1,,
@@ -1719,7 +1719,7 @@ Climax-Scotts Elementary School,+1 269 497 2100,11250,Qr Ave E,Scotts,MI,49088,C
 Climax-Scotts High School,+1 269 746 2301,372,South Main St,Climax,MI,49034,Climax-Scotts Community Schools,2;3,,
 Climax-Scotts Virtual Academy,+1 269 746 2401,372,South Main St,Climax,MI,49034,Climax-Scotts Community Schools,2;3,,
 Comstock Compass High School,+1 269 250 8930,3010,Gull Rd,Kalamazoo,MI,49048,Comstock Public Schools,1;2;3,,
-Comstock High School,+1 269 250 8700,2107,North 26Th St,Kalamazoo,MI,49048,Comstock Public Schools,3,,
+Comstock High School,+1 269 250 8700,2107,North 26Th St,Kalamazoo,MI,49048,Comstock Public Schools,3,,,Q5157692,Comstock High School,
 Green Meadow Elementary School,+1 269 250 8960,6171,East Mn Ave,Kalamazoo,MI,49048,Comstock Public Schools,0;1,,
 North Elementary School,+1 269 250 8550,3100,North 26Th St,Kalamazoo,MI,49048,Comstock Public Schools,0;1,,
 Northeast Middle School,+1 269 250 8600,1423,North 28Th St,Kalamazoo,MI,49048,Comstock Public Schools,2,,
@@ -1780,7 +1780,7 @@ Central Elementary School,+1 269 323 6100,8422,South Westnedge Ave,Portage,MI,49
 Haverhill Elementary School,+1 269 323 6200,6633,Haverhill Ave,Portage,MI,49024,Portage Public Schools,0;1,,
 Lake Center Elementary School,+1 269 323 6300,10011,Portage Rd,Portage,MI,49002,Portage Public Schools,0;1,,
 Moorsbridge Elementary School,+1 269 323 6400,7361,Moors Bridge Rd,Portage,MI,49024,Portage Public Schools,0;1,,
-Portage Central High School,+1 269 323 5200,8135,South Westnedge Ave,Portage,MI,49002,Portage Public Schools,3,,
+Portage Central High School,+1 269 323 5200,8135,South Westnedge Ave,Portage,MI,49002,Portage Public Schools,3,,,Q7231405,Portage Central High School,
 Portage Central Middle School,+1 269 323 5600,8305,South Westnedge Ave,Portage,MI,49002,Portage Public Schools,2,,
 Portage Community High School,+1 269 323 6700,1010,West Milham Ave,Portage,MI,49024,Portage Public Schools,3,,
 Portage North Middle School,+1 269 323 5700,5808,Oregon Ave,Portage,MI,49024,Portage Public Schools,2,,
@@ -1938,7 +1938,7 @@ West Kelloggsville School,+1 616 532 1595,4555,Magnolia Ave Sw,Grand Rapids,MI,4
 Alpine Elementary School,+1 616 784 0884,4730,Baumhoff Ave Nw,Comstock Park,MI,49321,Kenowa Hills Public Schools,0;1,,
 Kenowa Hills Central Elementary School,+1 616 453 6351,4252,3 Mile Rd Nw,Grand Rapids,MI,49534,Kenowa Hills Public Schools,0;1,,
 Kenowa Hills Early Childhood Center,+1 616 647 0910,3971,Richmond St Nw,Grand Rapids,MI,49534,Kenowa Hills Public Schools,,,
-Kenowa Hills High School,+1 616 784 2400,3825,Hendershot Ave Nw,Grand Rapids,MI,49544,Kenowa Hills Public Schools,3,,
+Kenowa Hills High School,+1 616 784 2400,3825,Hendershot Ave Nw,Grand Rapids,MI,49544,Kenowa Hills Public Schools,3,,,Q6391329,Kenowa Hills High School,
 Kenowa Hills Middle School,+1 616 785 3225,3950,Hendershot Ave Nw,Grand Rapids,MI,49544,Kenowa Hills Public Schools,2,,
 Kenowa Hills Pathways High School,+1 616 784 2511,3950,Hendershot Nw,Grand Rapids,MI,49544,Kenowa Hills Public Schools,3,,
 Zinser Elementary School,+1 616 453 2461,3949,Leonard St. Nw,Grand Rapids,MI,49534,Kenowa Hills Public Schools,0;1,,
@@ -1953,7 +1953,7 @@ Crestwood Middle School,+1 616 455 1200,2674,44Th St Se,Grand Rapids,MI,49512,Ke
 Crossroads Alternative High School,+1 616 261 6166,28,60Th St Se,Grand Rapids,MI,49548,Kentwood Public Schools,2;3,,
 Discovery Elementary,+1 616 871 1080,2461,60Th St Se,Grand Rapids,MI,49508,Kentwood Public Schools,0;1,,
 East Kentwood Freshman Campus,+1 616 698 9292,6170,Valley Lane Dr Se,Grand Rapids,MI,49508,Kentwood Public Schools,3,,
-East Kentwood High School,+1 616 698 6700,6230,Kalamazoo Ave Se,Grand Rapids,MI,49508,Kentwood Public Schools,3,,
+East Kentwood High School,+1 616 698 6700,6230,Kalamazoo Ave Se,Grand Rapids,MI,49508,Kentwood Public Schools,3,,,Q5328709,East Kentwood High School,http://www.kentwoodps.org/ourschools/eastkentwoodhighschool1012/
 Endeavor Elementary,+1 616 554 5241,5757,East Paris Ave Se,Grand Rapids,MI,49512,Kentwood Public Schools,0;1,,
 Explorer Elementary,+1 616 554 0302,2307,68Th St Se,Caledonia,MI,49316,Kentwood Public Schools,0;1,,
 Glenwood Elementary,+1 616 455 2510,912,Silverleaf St Se,Grand Rapids,MI,49508,Kentwood Public Schools,0;1,,
@@ -2104,7 +2104,7 @@ Patrick Hamilton Elementary,+1 269 782 4450,614,Spruce St,Dowagiac,MI,49047,Dowa
 Sister Lakes Elementary School,+1 269 424 3101,68079,M 152,Benton Harbor,MI,49022,Dowagiac Union School District,0;1,,
 Union High School,+1 269 782 4428,701,West Prairie Ronde St,Dowagiac,MI,49047,Dowagiac Union School District,3,,
 Eagle Lake Elementary School,+1 269 663 1040,69410,Section St,Edwardsburg,MI,49112,Edwardsburg Public Schools,1,,
-Edwardsburg High School,+1 269 663 1044,69410,Section St,Edwardsburg,MI,49112,Edwardsburg Public Schools,3,,
+Edwardsburg High School,+1 269 663 1044,69410,Section St,Edwardsburg,MI,49112,Edwardsburg Public Schools,3,,,Q5346142,Edwardsburg High School,
 Edwardsburg Intermediate School,+1 269 663 1063,69410,Section St,Edwardsburg,MI,49112,Edwardsburg Public Schools,1,,
 Edwardsburg Middle School,+1 269 663 1031,69410,Section St,Edwardsburg,MI,49112,Edwardsburg Public Schools,2,,
 Edwardsburg Primary School,+1 269 663 1037,69410,Section St,Edwardsburg,MI,49112,Edwardsburg Public Schools,0;1,,
@@ -2187,7 +2187,7 @@ Dakota High School,+1 586 723 2700,21051,21 Mile Rd,Macomb,MI,48044,Chippewa Val
 Erie Elementary School,+1 586 723 5400,42276,Romeo Plank,Clinton Twp,MI,48038,Chippewa Valley Schools,0;1,,
 Fox Elementary School,+1 586 723 5600,17500,Millstone Dr,Macomb,MI,48044,Chippewa Valley Schools,0;1,,
 Huron Elementary School,+1 586 723 5800,15800,Terra Bella,Clinton Twp,MI,48038,Chippewa Valley Schools,0;1,,
-International Academy of Macomb,+1 586 723 7200,42755,Romeo Plank,Clinton Twp,MI,48038,Chippewa Valley Schools,3,,
+International Academy of Macomb,+1 586 723 7200,42755,Romeo Plank,Clinton Twp,MI,48038,Chippewa Valley Schools,3,,,Q14875208,International Academy of Macomb,http://iamacomb.org/
 Iroquois Middle School,+1 586 723 3700,48301,Romeo Plank,Macomb,MI,48044,Chippewa Valley Schools,2,,
 Miami Elementary School,+1 586 723 6000,41290,Kentvale Dr,Clinton Twp,MI,48038,Chippewa Valley Schools,0;1,,
 Mohawk Elementary School,+1 586 723 6200,48101,Romeo Plank,Macomb,MI,48044,Chippewa Valley Schools,0;1,,
@@ -2237,7 +2237,7 @@ Great Oaks Academy,+1 586 427 4540,4257,Bart Ave,Warren,MI,48091,Great Oaks Acad
 Huron Academy (Grades 3-8),+1 586 690 8180,36301,Utica Road,Clinton Township,MI,48035,Huron Academy,1;2,,
 Huron Academy (Grades K-2),+1 586 446 9170,11401,Metropolitan Pkwy,Sterling Heights,MI,48312,Huron Academy,0;1,,
 Kennedy Middle School,+1 586 285 8800,23101,Masonic Blvd,Saint Clair Shores,MI,48082,Lake Shore Public Schools (Macomb),2,,
-Lake Shore High School,+1 586 285 8900,22980,East 13 Mile Rd,Saint Clair Shores,MI,48082,Lake Shore Public Schools (Macomb),3,,
+Lake Shore High School,+1 586 285 8900,22980,East 13 Mile Rd,Saint Clair Shores,MI,48082,Lake Shore Public Schools (Macomb),3,,,Q6477746,Lake Shore High School,
 Masonic Heights Elementary School,+1 586 285 8500,22100,Masonic Blvd,Saint Clair Shores,MI,48082,Lake Shore Public Schools (Macomb),0;1,,
 North Lake High School,+1 586 285 8780,23340,Elmira St,Saint Clair Shores,MI,48082,Lake Shore Public Schools (Macomb),3,,
 Rodgers Elementary School,+1 586 285 8600,21601,Lanse St,Saint Clair Shores,MI,48081,Lake Shore Public Schools (Macomb),0;1,,
@@ -2294,7 +2294,7 @@ Hamilton-Parsons Elementary School,+1 586 752 0280,69875,Dequindre Rd,Leonard,MI
 Hevel Elementary,+1 586 752 5951,12700,29 Mile Rd,Washington,MI,48094,Romeo Community Schools,0;1,,
 Indian Hills Elementary School,+1 586 752 0290,8401,29 Mile Rd,Washington,MI,48095,Romeo Community Schools,0;1,,
 Powell Middle School,+1 586 752 0270,62100,Jewell Rd,Washington,MI,48094,Romeo Community Schools,2,,
-Romeo High School,+1 586 752 0300,11091,32 Mile Rd,Romeo,MI,48065,Romeo Community Schools,3,,
+Romeo High School,+1 586 752 0300,11091,32 Mile Rd,Romeo,MI,48065,Romeo Community Schools,3,,,Q7363094,Romeo High School,http://romeo.k12.mi.us/pages/214/romeo-high-school
 Romeo Middle School,+1 586 752 0240,297,Prospect St,Romeo,MI,48065,Romeo Community Schools,2,,
 Washington Elementary School,+1 586 781 5563,58230,Van Dyke Rd,Washington,MI,48094,Romeo Community Schools,0;1,,
 Achievement High School,+1 586 445 5540,17855,Common Rd,Roseville,MI,48066,Roseville Community Schools,3,,
@@ -2331,7 +2331,7 @@ Floyd Ebeling Elementary School,+1 586 797 4700,15970,Haverhill Dr,Macomb,MI,480
 Frank Jeannette Junior High School,+1 586 797 3300,40400,Gulliver Dr,Sterling Heights,MI,48310,Utica Community Schools,2;3,,
 Graebner Elementary School,+1 586 797 5000,41875,Saal Rd,Sterling Heights,MI,48313,Utica Community Schools,0;1;2,,
 Havel Elementary School,+1 586 797 5200,41855,Schoenherr Rd,Sterling Heights,MI,48313,Utica Community Schools,0;1;2,,
-Henry Ford II High School,+1 586 797 1600,11911,Clinton River Rd,Sterling Heights,MI,48313,Utica Community Schools,3,,
+Henry Ford II High School,+1 586 797 1600,11911,Clinton River Rd,Sterling Heights,MI,48313,Utica Community Schools,3,,,Q14716132,Henry Ford II High School,
 Heritage Junior High School,+1 586 797 3100,37400,Dodge Park Rd,Sterling Heights,MI,48312,Utica Community Schools,2;3,,
 Issac Monfort Elementary School,+1 586 797 5700,6700,Montgomery Dr,Shelby Township,MI,48316,Utica Community Schools,0;1;2,,
 Jack Harvey Elementary School,+1 586 797 5100,41700,Montroy Dr,Sterling Heights,MI,48313,Utica Community Schools,0;1;2,,
@@ -2386,7 +2386,7 @@ Warren Woods Early Childhood Center,+1 586 439 4464,12900,Frazho Road,Warren,MI,
 Warren Woods Education Center,+1 586 439 4402,12900,Frazho Rd,Warren,MI,48089,Warren Woods Public Schools,3,,
 Warren Woods Enterprise High School,+1 586 439 4407,28600,Suburban Dr,Warren,MI,48088,Warren Woods Public Schools,3,,
 Warren Woods Middle School,+1 586 439 4403,13400,East 12 Mile Rd,Warren,MI,48088,Warren Woods Public Schools,2,,
-Warren Woods Tower High School,+1 586 439 4402,27900,Bunert Rd,Warren,MI,48088,Warren Woods Public Schools,3,,
+Warren Woods Tower High School,+1 586 439 4402,27900,Bunert Rd,Warren,MI,48088,Warren Woods Public Schools,3,,,Q7970609,Warren Woods Tower High School,
 Westwood Elementary School,+1 586 439 4406,11999,Martin Rd,Warren,MI,48093,Warren Woods Public Schools,0;1,,
 Bear Lake Elementary School,+1 231 864 3133,7748,Cody St,Bear Lake,MI,49614,Bear Lake Schools,0;1;2,,
 Bear Lake High School,+1 231 864 3133,7748,Cody St,Bear Lake,MI,49614,Bear Lake Schools,2;3,,
@@ -2441,7 +2441,7 @@ Weidman Elementary School,+1 989 644 3430,3311,North School Rd,Weidman,MI,48893,
 Crossroads Charter Academy (7-12),+1 231 796 9041,215,Spruce St W,Big Rapids,MI,49307,Crossroads Charter Academy,2;3,,
 Crossroads Charter Academy (K-6),+1 231 796 6589,215,North State St,Big Rapids,MI,49307,Crossroads Charter Academy,0;1;2,,
 Evart Elementary School,+1 231 734 5595,515,North Cedar St,Evart,MI,49631,Evart Public Schools,0;1,,
-Evart High School,+1 231 734 5551,6221,95Th Ave,Evart,MI,49631,Evart Public Schools,3,,
+Evart High School,+1 231 734 5551,6221,95Th Ave,Evart,MI,49631,Evart Public Schools,3,,,Q5416078,Evart High School,
 Evart Middle School,+1 231 734 4222,321,North Hemlock St,Evart,MI,49631,Evart Public Schools,1;2,,
 Morley Stanwood Elementary School,+1 231 856 7684,4808,Northland Dr,Morley,MI,49336,Morley Stanwood Community Schools,0;1,,
 Morley Stanwood High School,+1 231 856 4444,4700,Northland Dr,Morley,MI,49336,Morley Stanwood Community Schools,3,,
@@ -2594,7 +2594,7 @@ Muskegon Middle School,+1 231 720 3000,1150,Amity Ave,Muskegon,MI,49442,"Muskego
 Nelson Elementary School,+1 231 720 2200,550,West Grand Ave,Muskegon,MI,49441,"Muskegon, Public Schools of the City of",0;1;2,,
 Oakview Elementary School,+1 231 720 2450,1420,Madison St,Muskegon,MI,49442,"Muskegon, Public Schools of the City of",0;1;2,,
 North Muskegon Elementary School,+1 231 719 4201,1600,Mills Ave,Muskegon,MI,49445,North Muskegon Public Schools,0;1,,
-North Muskegon High School,+1 231 719 4113,1507,Mills Ave,Muskegon,MI,49445,North Muskegon Public Schools,3,,
+North Muskegon High School,+1 231 719 4113,1507,Mills Ave,Muskegon,MI,49445,North Muskegon Public Schools,3,,,Q7056164,North Muskegon High School,
 North Muskegon Middle School,+1 231 719 4110,1507,Mills Ave,Muskegon,MI,49445,North Muskegon Public Schools,2,,
 Oakridge Fusion,+1 231 788 7319,5493,Hall Road,Muskegon,MI,49442,Oakridge Public Schools,3,,
 Oakridge High School,+1 231 788 7300,5493,Hall Rd,Muskegon,MI,49442,Oakridge Public Schools,3,,
@@ -2658,7 +2658,7 @@ R. Grant Graham Elementary School,+1 248 537 6800,2450,Old Salem Rd,Auburn Hills
 Woodland Elementary School,+1 248 537 6900,6465,Livernois Rd,Troy,MI,48098,Avondale School District,0;1,,
 Anderson Middle School,+1 248 837 8200,3205,Catalpa Dr,Berkley,MI,48072,Berkley School District,2,,
 Angell Elementary School,+1 248 837 8500,3849,Beverly Blvd,Berkley,MI,48072,Berkley School District,0;1,,
-Berkley High School,+1 248 837 8100,2325,Catalpa Dr,Berkley,MI,48072,Berkley School District,3,,
+Berkley High School,+1 248 837 8100,2325,Catalpa Dr,Berkley,MI,48072,Berkley School District,3,,,Q4892180,Berkley High School,http://www.berkleyschools.org/bhs
 Burton Elementary School,+1 248 837 8600,26315,Scotia Rd,Huntington Woods,MI,48070,Berkley School District,0;1,,
 Norup International School,+1 248 837 8300,14450,Manhattan St,Oak Park,MI,48237,Berkley School District,0;1;2,,
 Pattengill Elementary School,+1 248 837 8700,3540,Morrison Ave,Berkley,MI,48072,Berkley School District,0;1,,
@@ -2727,7 +2727,7 @@ Hillside Elementary School,+1 248 489 3773,36801,West 11 Mile Rd,Farmington Hill
 J.A. Lanigan Elementary School,+1 248 489 3722,23800,Tuck Rd,Farmington Hills,MI,48336,Farmington Public School District,0;1,,
 Kenbrook Elementary School,+1 248 489 3711,32130,Bonnet Hill Rd,Farmington Hills,MI,48334,Farmington Public School District,0;1,,
 Longacre Elementary School,+1 248 489 3733,34850,Arundel Dr,Farmington,MI,48335,Farmington Public School District,0;1,,
-North Farmington High School,+1 248 785 2005,32900,West 13 Mile Rd,Farmington Hills,MI,48334,Farmington Public School District,3,,
+North Farmington High School,+1 248 785 2005,32900,West 13 Mile Rd,Farmington Hills,MI,48334,Farmington Public School District,3,,,Q7055345,North Farmington High School,
 Power Middle School,+1 248 489 3622,34740,Rhonswood St,Farmington Hills,MI,48335,Farmington Public School District,2,,
 Visions Unlimited,+1 248 489 3833,33000,Freedom Rd,Farmington,MI,48336,Farmington Public School District,3,,
 Warner Middle School,+1 248 785 2030,30303,West 14 Mile Rd,Farmington Hills,MI,48334,Farmington Public School District,2,,
@@ -2747,7 +2747,7 @@ Great Lakes Academy,+1 248 334 6434,46312,Woodward Ave,Pontiac,MI,48342,Great La
 Advantage Alternative Program,+1 248 658 5280,1620,East Elza Ave,Hazel Park,MI,48030,"Hazel Park, School District of the City of",0;1;2;3,,
 Edison,+1 248 658 5400,570,E Mapledale Ave,Hazel Park,MI,48030,"Hazel Park, School District of the City of",0;1;2;3,,
 Hazel Park ACCESS Alternative School,+1 248 658 5200,1543,E. Eight Mile Road,Hazel Park,MI,48030,"Hazel Park, School District of the City of",3,,
-Hazel Park High School,+1 248 658 5100,23400,Hughes Ave,Hazel Park,MI,48030,"Hazel Park, School District of the City of",3,,
+Hazel Park High School,+1 248 658 5100,23400,Hughes Ave,Hazel Park,MI,48030,"Hazel Park, School District of the City of",3,,,Q5687983,Hazel Park High School,
 Hazel Park Junior High School,+1 248 658 2300,22770,Highland Ave,Hazel Park,MI,48030,"Hazel Park, School District of the City of",2,,
 Hoover Elementary School,+1 248 658 5300,23720,Hoover Ave,Hazel Park,MI,48030,"Hazel Park, School District of the City of",0;1,,
 Invest Roosevelt Alternative High School,+1 248 658 5200,24131,S Chrysler Dr,Hazel Park,MI,48030,"Hazel Park, School District of the City of",3,,
@@ -2869,7 +2869,7 @@ Meadow Brook Elementary School,+1 248 726 4100,2350,Munster Rd,Rochester Hills,M
 Musson Elementary School,+1 248 726 4200,3500,Dutton Rd,Rochester Hills,MI,48306,Rochester Community School District,0;1,,
 North Hill Elementary School,+1 248 726 4300,1385,Mahaffy Ave,Rochester Hills,MI,48307,Rochester Community School District,0;1,,
 Reuther Middle School,+1 248 726 4700,1430,East Auburn Rd,Rochester Hills,MI,48307,Rochester Community School District,2;3,,
-Rochester Adams High School,+1 248 726 5200,3200,West Tienken Rd,Rochester Hills,MI,48306,Rochester Community School District,3,,
+Rochester Adams High School,+1 248 726 5200,3200,West Tienken Rd,Rochester Hills,MI,48306,Rochester Community School District,3,,,Q7353940,Rochester Adams High School,http://www.rochester.k12.mi.us/pages/214/adams
 Rochester Adult Education,+1 248 726 5950,1440,John R Rd,Rochester Hls,MI,48307,Rochester Community School District,3,,
 Rochester High School,+1 248 726 5400,180,South Livernois Rd,Rochester Hills,MI,48307,Rochester Community School District,3,,
 Stoney Creek High School,+1 248 726 5700,6755,Sheldon Rd.,Rochester Hills,MI,48306,Rochester Community School District,3,,
@@ -2883,7 +2883,7 @@ Keller Elementary,+1 248 542 6500,1505,North Campbell Rd,Royal Oak,MI,48067,Roya
 Northwood Elementary School,+1 248 541 0229,926,West 12 Mile Rd,Royal Oak,MI,48073,Royal Oak Schools,0;1,,
 Oak Ridge Elementary School,+1 248 588 8353,506,East 13 Mile Rd,Royal Oak,MI,48073,Royal Oak Schools,0;1,,
 Oakland Elementary School,+1 248 542 4406,2415,Brockton Ave,Royal Oak,MI,48067,Royal Oak Schools,0;1,,
-Royal Oak High School,+1 248 435 8500,1500,Lexington Blvd,Royal Oak,MI,48073,Royal Oak Schools,2;3,,
+Royal Oak High School,+1 248 435 8500,1500,Lexington Blvd,Royal Oak,MI,48073,Royal Oak Schools,2;3,,,Q7374619,Royal Oak High School,http://www.royaloakschools.com/portal/?q=rohs
 Royal Oak Middle School,+1 248 435 8400,709,North Washington Ave,Royal Oak,MI,48067,Royal Oak Schools,2,,
 Sarah J. Webber Media Arts Academy,+1 248 972 9100,48980,Woodward Ave,Pontiac,MI,48342,Sarah J. Webber Media Arts Academy,0;1;2,,
 Ann L. Dolsen Elementary School,+1 248 573 8400,56775,Rice St,New Hudson,MI,48165,South Lyon Community Schools,0;1,,
@@ -2948,7 +2948,7 @@ Sarah G. Banks Middle School,+1 248 956 2200,1760,Charms Rd,Wixom,MI,48393,Walle
 Walled Lake Central High School,+1 248 956 4700,1600,East Oakley Park Rd,Commerce Township,MI,48390,Walled Lake Consolidated Schools,3,,
 Walled Lake Elementary School,+1 248 956 4300,1055,West West Maple Rd,Walled Lake,MI,48390,Walled Lake Consolidated Schools,0;1,,
 Walled Lake Northern High School,+1 248 956 5300,6000,Bogie Lake Rd,Commerce Township,MI,48382,Walled Lake Consolidated Schools,3,,
-Walled Lake Western High School,+1 248 956 4400,600,Beck Rd,Commerce Township,MI,48390,Walled Lake Consolidated Schools,2;3,,
+Walled Lake Western High School,+1 248 956 4400,600,Beck Rd,Commerce Township,MI,48390,Walled Lake Consolidated Schools,2;3,,,Q14716343,Walled Lake Western High School,http://www.wlcsd.org/western.cfm
 Walnut Creek Middle School,+1 248 956 2400,7601,Walnut Lake Rd,West Bloomfield,MI,48323,Walled Lake Consolidated Schools,2,,
 Wixom Elementary School,+1 248 956 3400,301,North Wixom Rd,Wixom,MI,48393,Walled Lake Consolidated Schools,0;1,,
 Walton Charter Academy,+1 248 371 9300,744,East Walton Blvd,Pontiac,MI,48340,Walton Charter Academy,0;1;2,,
@@ -2968,19 +2968,19 @@ Pierce Middle School,+1 248 674 0331,5145,Hatchery Rd,Waterford,MI,48329,Waterfo
 Riverside Elementary School,+1 248 674 0805,5280,Farm Rd,Waterford,MI,48327,Waterford School District,0;1,,
 Schoolcraft Elementary School,+1 248 623 6211,6400,Maceday Dr,Waterford,MI,48329,Waterford School District,0;1,,
 Waterford Durant High School,+1 248 674 6347,501,N Cass Lake Rd,Waterford,MI,48328,Waterford School District,3,,
-Waterford Kettering High School,+1 248 673 1261,2800,Kettering Dr,Waterford,MI,48329,Waterford School District,2;3,,
-Waterford Mott High School,+1 248 674 4134,1151,Scott Lake Rd,Waterford,MI,48328,Waterford School District,3,,
+Waterford Kettering High School,+1 248 673 1261,2800,Kettering Dr,Waterford,MI,48329,Waterford School District,2;3,,,Q7974030,Waterford Kettering High School,http://www.waterford.k12.mi.us/pages/214/kettering
+Waterford Mott High School,+1 248 674 4134,1151,Scott Lake Rd,Waterford,MI,48328,Waterford School District,3,,,Q7974035,Waterford Mott High School,http://www.waterford.k12.mi.us/pages/61/mott
 Abbott Middle School,+1 248 865 3670,3380,Orchard Lake Rd,Orchard Lake,MI,48324,West Bloomfield School District,2,,
 Doherty Elementary School,+1 248 865 6020,3575,Walnut Lake Rd,West Bloomfield,MI,48323,West Bloomfield School District,0;1,,
 Gretchko Elementary School,+1 248 865 6570,5300,Greer Rd,West Bloomfield,MI,48324,West Bloomfield School District,0;1,,
-Oakland Early College,+1 248 522 3540,27055,Orchard Lake Rd,Farmington Hills,MI,48334,West Bloomfield School District,3,,
+Oakland Early College,+1 248 522 3540,27055,Orchard Lake Rd,Farmington Hills,MI,48334,West Bloomfield School District,3,,,Q7073992,Oakland Early College,
 Orchard Lake Middle School,+1 248 865 4480,6000,Orchard Lake Rd,West Bloomfield,MI,48322,West Bloomfield School District,2,,
 Roosevelt Elementary School,+1 248 865 6620,2065,Cass Lake Rd,Keego Harbor,MI,48320,West Bloomfield School District,0;1,,
 Scotch Elementary School,+1 248 865 3280,5959,Commerce Rd,West Bloomfield,MI,48324,West Bloomfield School District,1,,
 Sheiko Elementary School,+1 248 865 6370,4500,Walnut Lake Rd,West Bloomfield,MI,48323,West Bloomfield School District,1,,
 West Bloomfield High School,+1 248 865 6720,4925,Orchard Lake Rd,West Bloomfield,MI,48323,West Bloomfield School District,3,,
 Allendale Early Childhood Center,+1 616 892 5570,10455,Timberline Dr,Allendale,MI,49401,Allendale Public Schools,0,,
-Allendale High School,+1 616 892 5585,10760,68Th Ave,Allendale,MI,49401,Allendale Public Schools,2;3,,
+Allendale High School,+1 616 892 5585,10760,68Th Ave,Allendale,MI,49401,Allendale Public Schools,2;3,,,Q4731997,Allendale High School,http://www.allendale.k12.mi.us/schools/highschool/
 Allendale Middle School,+1 616 892 5595,7161,Pleasant View Ct,Allendale,MI,49401,Allendale Public Schools,2,,
 Evergreen Elementary,+1 616 892 3465,10690,Learning Ln,Allendale,MI,49401,Allendale Public Schools,0;1,,
 New Options High School,+1 616 892 5575,10760,68Th Ave,Allendale,MI,49401,Allendale Public Schools,3,,
@@ -3029,7 +3029,7 @@ Bauer Elementary School,+1 616 669 6824,8136,48Th Ave,Hudsonville,MI,49426,Hudso
 Forest Grove Elementary School,+1 616 896 9429,1645,32Nd Ave,Hudsonville,MI,49426,Hudsonville Public School District,0;1,,
 Georgetown Elementary School,+1 616 797 9797,3909,Baldwin St,Hudsonville,MI,49426,Hudsonville Public School District,0;1,,
 Hudsonville Freshman Building,+1 616 669 1510,3370,Allen St,Hudsonville,MI,49426,Hudsonville Public School District,3,,
-Hudsonville High School,+1 616 669 1500,5037,32Nd Ave,Hudsonville,MI,49426,Hudsonville Public School District,3,,
+Hudsonville High School,+1 616 669 1500,5037,32Nd Ave,Hudsonville,MI,49426,Hudsonville Public School District,3,,,Q5929087,Hudsonville High School,http://www.hudsonville.k12.mi.us/HPS/index.php?option=com_content&task=section&id=12&Itemid=136
 Jamestown Lower Elementary School,+1 616 662 1478,2522,Greenly St,Hudsonville,MI,49426,Hudsonville Public School District,0;1,,
 Jamestown Upper Elementary School,+1 616 896 9375,3291,Lincoln Ct,Jamestown,MI,49427,Hudsonville Public School District,1,,
 Park Elemementary School,+1 616 669 1970,5525,Park Ave,Hudsonville,MI,49426,Hudsonville Public School District,0;1,,
@@ -3130,7 +3130,7 @@ Weiss Elementary School,+1 989 793 5226,4645,Weiss St,Saginaw,MI,48603,Saginaw T
 Westdale Elementary School,+1 989 797 1827,705,South Center Rd,Saginaw,MI,48638,Saginaw Township Community Schools,0;1,,
 White Pine Middle School,+1 989 797 1814,505,North Center Rd,Saginaw,MI,48638,Saginaw Township Community Schools,2,,
 Arthur Eddy Academy,+1 989 399 5250,1000,Cathay St,Saginaw,MI,48601,"Saginaw, School District of the City of",0;1;2,,
-Arthur Hill High School,+1 989 399 5800,3115,Mackinaw St,Saginaw,MI,48602,"Saginaw, School District of the City of",3,,
+Arthur Hill High School,+1 989 399 5800,3115,Mackinaw St,Saginaw,MI,48602,"Saginaw, School District of the City of",3,,,Q4799078,Arthur Hill High School,http://pub.spsd.net/arthurhill/index.html
 Career Opportunities Center,+1 989 399 6150,2102,Weiss St,Saginaw,MI,48602,"Saginaw, School District of the City of",3,,
 Chester F. Miller School,+1 989 399 4850,2020,Brockway St,Saginaw,MI,48602,"Saginaw, School District of the City of",0;1;2,,
 Handley School,+1 989 399 4250,224,North Elm St,Saginaw,MI,48602,"Saginaw, School District of the City of",0;1,,
@@ -3141,7 +3141,7 @@ Kempton Elementary School,+1 989 399 4600,3040,Davenport Ave,Saginaw,MI,48602,"S
 Merrill Park Elementary School,+1 989 399 4800,1800,Grout St,Saginaw,MI,48602,"Saginaw, School District of the City of",0;1;2,,
 Ruben Daniels Community School-ETC,+1 989 791 5170,2415,N Charles St,Saginaw,MI,48602,"Saginaw, School District of the City of",3,,
 Saginaw Arts and Sciences Academy,+1 989 399 5500,1903,N. Niagra St.,Saginaw,MI,48602,"Saginaw, School District of the City of",2;3,,
-Saginaw High School,+1 989 399 6000,3100,Webber St,Saginaw,MI,48601,"Saginaw, School District of the City of",3,,
+Saginaw High School,+1 989 399 6000,3100,Webber St,Saginaw,MI,48601,"Saginaw, School District of the City of",3,,,Q7399270,Saginaw High School,http://shs.spsd.net/
 Stone School,+1 989 399 5100,1006,State St,Saginaw,MI,48602,"Saginaw, School District of the City of",0;1;2,,
 The Success Academy,+1 989 399 6150,2102,Weiss Street,Saginaw,MI,48602,"Saginaw, School District of the City of",2;3,,
 Thompson Middle School,+1 989 399 5600,3021,Court Street,Saginaw,MI,48602,"Saginaw, School District of the City of",2,,
@@ -3161,7 +3161,7 @@ Brown City High School,+1 810 346 4700,4400,Second St,Brown City,MI,48416,Brown 
 Carsonville-Port Sanilac Elementary School,+1 810 657 9318,4115,East Chandler St,Carsonville,MI,48419,Carsonville-Port Sanilac School District,0;1,,
 Carsonville-Port Sanilac High School,+1 810 657 9394,100,North Goetze Rd,Carsonville,MI,48419,Carsonville-Port Sanilac School District,2;3,,
 Carsonville-Port Sanilac Learning Center,+1 810 657 9393,100,North Goetze Rd,Carsonville,MI,48419,Carsonville-Port Sanilac School District,2;3,,
-Croswell-Lexington High School,+1 810 679 1500,5461,Peck Rd,Croswell,MI,48422,Croswell-Lexington Community Schools,3,,
+Croswell-Lexington High School,+1 810 679 1500,5461,Peck Rd,Croswell,MI,48422,Croswell-Lexington Community Schools,3,,,Q5188011,Croswell-Lexington High School,
 Croswell-Lexington Middle School,+1 810 679 1400,5485,Peck Rd,Croswell,MI,48422,Croswell-Lexington Community Schools,1;2,,
 Frostick School,+1 810 679 1100,57,South Howard Ave,Croswell,MI,48422,Croswell-Lexington Community Schools,0;1,,
 Meyer Elementary School,+1 810 679 1200,7201,Lake St,Lexington,MI,48450,Croswell-Lexington Community Schools,0;1,,
@@ -3177,7 +3177,7 @@ Sandusky Junior/Senior High School,+1 810 648 3401,191,Pine Tree Ln,Sandusky,MI,
 Byron Area Elementary School,+1 810 266 4671,401,East Maple St,Byron,MI,48418,Byron Area Schools,0;1;2,,
 Byron Area High School,+1 810 266 4620,312,West Maple St,Byron,MI,48418,Byron Area Schools,3,,
 Byron Area Middle School,+1 810 266 4422,312,West Maple St,Byron,MI,48418,Byron Area Schools,2,,
-Corunna High School,+1 989 743 3441,417,East King St,Corunna,MI,48817,Corunna Public Schools,2;3,,
+Corunna High School,+1 989 743 3441,417,East King St,Corunna,MI,48817,Corunna Public Schools,2;3,,,Q5173412,Corunna High School,
 Corunna Middle School,+1 989 743 5641,400,North Comstock St,Corunna,MI,48817,Corunna Public Schools,1;2,,
 Elsa Meyer Elementary School,+1 989 743 4404,100,Hastings St,Corunna,MI,48817,Corunna Public Schools,1,,
 Nellie Reed Elementary,+1 989 743 1579,201,E Washington Ave,Vernon,MI,48476,Corunna Public Schools,0;1,,
@@ -3241,7 +3241,7 @@ Kimball Elementary School,+1 810 984 6519,5801,Griswold Rd,Kimball,MI,48074,Port
 Literacy Academy at Cleveland Elementary,+1 810 984 6500,2801,Vanness St,Port Huron,MI,48060,Port Huron Area School District,0;1,,
 Michigamme Elementary School,+1 810 984 6523,2855,Michigan Rd,Port Huron,MI,48060,Port Huron Area School District,0;1,,
 Port Huron High School,+1 810 984 2611,2215,Court St,Port Huron,MI,48060,Port Huron Area School District,3,,
-Port Huron Northern High School,+1 810 984 2671,1799,Krafft Rd,Port Huron,MI,48060,Port Huron Area School District,3,,
+Port Huron Northern High School,+1 810 984 2671,1799,Krafft Rd,Port Huron,MI,48060,Port Huron Area School District,3,,,Q7230697,Port Huron Northern High School,http://phn.phasd.us
 Roosevelt Elementary School,+1 810 984 6525,1112,20Th St,Port Huron,MI,48060,Port Huron Area School District,0;1,,
 STEAM Academy at Woodrow Wilson Elementary,+1 810 984 6530,834,Chestnut St,Port Huron,MI,48060,Port Huron Area School District,1,,
 Saint Clair County Intervention Academy,+1 586 731 5300,1170,Michigan Rd,Port Huron,MI,48060,St. Clair County Intervention Academy,2;3,,
@@ -3259,7 +3259,7 @@ Centreville Elementary School,+1 269 467 5201,190,Hogan St,Centreville,MI,49032,
 Centreville Junior /Sr. High School,+1 269 467 5210,190,Hogan St,Centreville,MI,49032,Centreville Public Schools,2;3,,
 Covered Bridge School,+1 269 467 5215,190,Hogan St,Centreville,MI,49032,Centreville Public Schools,3,,
 Colon Elementary School,+1 269 432 2121,328,East State St,Colon,MI,49040,Colon Community School District,0;1,,
-Colon High School,+1 269 432 3231,400,Dallas St,Colon,MI,49040,Colon Community School District,2;3,,
+Colon High School,+1 269 432 3231,400,Dallas St,Colon,MI,49040,Colon Community School District,2;3,,,Q5148060,Colon High School,
 Leonidas School,+1 269 432 2121,30945,Church St,Leonidas,MI,49066,Colon Community School District,0;1;2,,
 Constantine Alternative Education,+1 269 435 9030,664,Canaris St,Constantine,MI,49042,Constantine Public School District,2;3,,
 Constantine High School,+1 269 435 8920,1,Falcon Dr,Constantine,MI,49042,Constantine Public School District,3,,
@@ -3271,7 +3271,7 @@ Mendon Middle/High School,+1 269 496 8491,148,Kirby Rd,Mendon,MI,49072,Mendon Co
 Nottawa Community School,+1 269 467 7153,26438,M 86,Sturgis,MI,49091,Nottawa Community School,0;1;2,,
 Congress School,+1 269 659 1565,421,East Congress St,Sturgis,MI,49091,Sturgis Public Schools,0;1,,
 Eastwood School,+1 269 659 1560,909,South Franks Ave,Sturgis,MI,49091,Sturgis Public Schools,1,,
-Sturgis High School,+1 269 659 1515,216,Vinewood Ave,Sturgis,MI,49091,Sturgis Public Schools,3,,
+Sturgis High School,+1 269 659 1515,216,Vinewood Ave,Sturgis,MI,49091,Sturgis Public Schools,3,,,Q7629049,Sturgis High School,http://www.sturgisps.org/hs/site/default.asp
 Sturgis Middle School,+1 269 659 1550,1400,East Lafayette St,Sturgis,MI,49091,Sturgis Public Schools,2,,
 Sturgis Schools Adult Education Center,+1 269 659 1540,107,West West St,Sturgis,MI,49091,Sturgis Public Schools,0;1;2;3,,
 Wall School,+1 269 659 1570,702,East Lafayette St,Sturgis,MI,49091,Sturgis Public Schools,0;1,,
@@ -3403,7 +3403,7 @@ Lawton High School,+1 269 624 7800,101,Blue Pride Dr,Lawton,MI,49065,Lawton Comm
 Lawton Middle School,+1 269 624 7601,100,Blue Pride Dr,Lawton,MI,49065,Lawton Community School District,2,,
 Mattawan Alternative Ed,+1 269 668 3361,56720,Murray St,Mattawan,MI,49071,Mattawan Consolidated School,3,,
 Mattawan Early Elementary School,+1 269 668 3361,56720,Murray St,Mattawan,MI,49071,Mattawan Consolidated School,0;1,,
-Mattawan High School,+1 269 668 3361,56720,Murray St,Mattawan,MI,49071,Mattawan Consolidated School,2;3,,
+Mattawan High School,+1 269 668 3361,56720,Murray St,Mattawan,MI,49071,Mattawan Consolidated School,2;3,,,Q6789627,Mattawan High School,http://www.mattawanschools.org/hs
 Mattawan Later Elementary School,+1 269 668 3361,56720,Murray St,Mattawan,MI,49071,Mattawan Consolidated School,1,,
 Mattawan Middle School,+1 269 668 3361,56720,Murray St,Mattawan,MI,49071,Mattawan Consolidated School,2,,
 Michigan Online School,+1 269 216 6972,209,S State St,Gobles,MI,49055,Michigan Online School,2;3,,
@@ -3515,7 +3515,7 @@ ACE Academy - Jefferson site,+1 313 852 7500,13330,E. Jefferson Avenue,Detroit,M
 Achieve Charter Academy,+1 734 397 0960,3250,Denton Rd,Canton,MI,48188,Achieve Charter Academy,0;1;2,,
 Advanced Technology Academy,+1 313 625 4700,4801,Oakman Blvd,Dearborn,MI,48126,Advanced Technology Academy,0;1;2;3,,
 Allen Park Community School,+1 313 827 2660,14700,Moore Ave,Allen Park,MI,48101,Allen Park Public Schools,3,,
-Allen Park High School,+1 313 827 1200,18401,Champaign Rd,Allen Park,MI,48101,Allen Park Public Schools,3,,
+Allen Park High School,+1 313 827 1200,18401,Champaign Rd,Allen Park,MI,48101,Allen Park Public Schools,3,,,Q4731809,Allen Park High School,http://www.apps.k12.mi.us
 Allen Park Middle School,+1 313 827 2200,8401,Vine Ave,Allen Park,MI,48101,Allen Park Public Schools,2,,
 Arno Elementary School,+1 313 827 1050,7500,Fox Ave,Allen Park,MI,48101,Allen Park Public Schools,0;1,,
 Bennie Elementary School,+1 313 827 1300,17401,Champaign Rd,Allen Park,MI,48101,Allen Park Public Schools,0;1,,
@@ -3565,7 +3565,7 @@ Dearborn Magnet High School,+1 313 827 4800,22586,Ann Arbor Trl,Dearborn Heights
 Dearborn STEM Middle School,+1 313 827 1904,22586,Ann Arbor Trl,Dearborn Heights,MI,48127,Dearborn City School District,2,,
 Duvall Elementary School,+1 313 827 2750,22561,Beech St,Dearborn,MI,48124,Dearborn City School District,0;1,,
 Edsel Ford High School,+1 313 827 1500,20601,Rotunda Dr,Dearborn,MI,48124,Dearborn City School District,3,,
-Fordson High School,+1 313 827 1400,13800,Ford Rd,Dearborn,MI,48126,Dearborn City School District,3,,
+Fordson High School,+1 313 827 1400,13800,Ford Rd,Dearborn,MI,48126,Dearborn City School District,3,,,Q5468106,Fordson High School,http://fhs.dearbornschools.org/index.htm
 Geer Park Elementary,+1 313 827 2300,14767,Prospect St,Dearborn,MI,48126,Dearborn City School District,0;1,,
 Haigh Elementary School,+1 313 827 6200,601,North Silvery Ln,Dearborn,MI,48128,Dearborn City School District,0;1,,
 Henry Ford Early College,+1 313 317 1584,5101,Evergreen Rd,Dearborn,MI,48128,Dearborn City School District,3,,
@@ -3765,7 +3765,7 @@ Brownell Middle School,+1 313 432 3900,260,Chalfonte Ave,Grosse Pointe Farms,MI,
 Charles A. Poupard Elementary School,+1 313 432 4800,20655,Lennon St,Harper Woods,MI,48225,Grosse Pointe Public Schools,0;1,,
 Ferry Elementary School,+1 313 432 4100,748,Roslyn Rd,Grosse Pointe Woods,MI,48236,Grosse Pointe Public Schools,0;1,,
 George Defer Elementary School,+1 313 432 4000,15425,Kercheval Ave,Grosse Pointe Park,MI,48230,Grosse Pointe Public Schools,0;1,,
-Grosse Pointe North High School,+1 313 432 3200,707,Vernier Rd,Grosse Pointe Woods,MI,48236,Grosse Pointe Public Schools,3,,
+Grosse Pointe North High School,+1 313 432 3200,707,Vernier Rd,Grosse Pointe Woods,MI,48236,Grosse Pointe Public Schools,3,,,Q5610551,Grosse Pointe North High School,http://gpschools.schoolwires.net/Domain/194
 Grosse Pointe South High School,+1 313 432 3500,11,Grosse Pointe Blvd,Grosse Pointe Farms,MI,48236,Grosse Pointe Public Schools,3,,
 John Monteith Elementary School,+1 313 432 4500,1275,Cook Rd,Grosse Pointe Woods,MI,48236,Grosse Pointe Public Schools,0;1,,
 Kerby Elementary School,+1 313 432 4200,285,Kerby Rd,Grosse Pointe Farms,MI,48236,Grosse Pointe Public Schools,0;1,,
@@ -3789,11 +3789,11 @@ Hanley International Academy,+1 313 875 8888,2400,Denton St,Hamtramck,MI,48212,H
 Beacon Elementary School,+1 313 245 5343,19475,Beaconsfield St,Harper Woods,MI,48225,"Harper Woods, The School District of the City of",0;1,,
 Diploma Success Community School,+1 586 933 6075,19872,Kelly Road,Harper Woods,MI,48225,"Harper Woods, The School District of the City of",0;1;2;3,,
 Harper Academy,+1 313 245 3084,20225,Beaconsfield,Harper Woods,MI,48225,"Harper Woods, The School District of the City of",3,,
-Harper Woods High School,+1 313 245 3084,20225,Beaconsfield St,Harper Woods,MI,48225,"Harper Woods, The School District of the City of",3,,
+Harper Woods High School,+1 313 245 3084,20225,Beaconsfield St,Harper Woods,MI,48225,"Harper Woods, The School District of the City of",3,,,Q28230665,Harper Woods High School,
 Harper Woods Middle School,+1 586 343 1830,19800,Anita St,Harper Woods,MI,48225,"Harper Woods, The School District of the City of",2,,
 Harper Woods Virtual Academy,+1 800 297 2119,18901,15 Mile Rd,Clinton Twp,MI,48035,"Harper Woods, The School District of the City of",0;1;2;3,,
 Tyrone Elementary School,+1 313 245 5379,19525,Tyrone St,Harper Woods,MI,48225,"Harper Woods, The School District of the City of",1,,
-Henry Ford Academy,+1 313 982 6193,20900,Oakwood Blvd,Dearborn,MI,48124,Henry Ford Academy,3,,
+Henry Ford Academy,+1 313 982 6193,20900,Oakwood Blvd,Dearborn,MI,48124,Henry Ford Academy,3,,,Q5721400,Henry Ford Academy,
 Henry Ford Academy: School for Creative Studies - Elementary,+1 313 826 1159,10225,3Rd St,Detroit,MI,48202,Henry Ford Academy: School for Creative Studies (PSAD),0;1,,
 Henry Ford Academy: School for Creative Studies (PSAD),+1 313 481 4000,485,W Milwaukee St,Detroit,MI,48202,Henry Ford Academy: School for Creative Studies (PSAD),2;3,,
 Barber Elementary School,+1 313 957 3005,45,East Buena Vista St,Highland Park,MI,48203,Highland Park Public School Academy System,0;1;2,,
@@ -3851,7 +3851,7 @@ Marvin L. Winans Academy - Elementary,+1 313 640 4610,9740,Mckinney St,Detroit,M
 Marvin L. Winans Academy Middle School,+1 313 640 4610,9740,Mckinney,Detroit,MI,48224,Marvin L. Winans Academy of Performing Arts,2,,
 Allendale Elementary School,+1 313 389 4664,3201,Oakwood Blvd,Melvindale,MI,48122,Melvindale-North Allen Park Schools,1,,
 Julian O. Strong Middle School,+1 313 389 3330,3303,Oakwood Blvd,Melvindale,MI,48122,Melvindale-North Allen Park Schools,2,,
-Melvindale High School,+1 313 389 3320,18656,Prospect St,Melvindale,MI,48122,Melvindale-North Allen Park Schools,3,,
+Melvindale High School,+1 313 389 3320,18656,Prospect St,Melvindale,MI,48122,Melvindale-North Allen Park Schools,3,,,Q6814114,Melvindale High School,http://www.melnap.k12.mi.us/education/school/school.php?sectionid=4&
 Rogers Early Elementary School,+1 313 389 3345,5000,Shenandoah Ave,Allen Park,MI,48101,Melvindale-North Allen Park Schools,0;1,,
 Metro Charter Academy,+1 734 641 3200,34800,Ecorse Rd,Romulus,MI,48174,Metro Charter Academy,0;1;2,,
 Trix Academy,+1 313 426 1020,20045,Joann St,Detroit,MI,48205,Michigan Educational Choice Center,0;1;2,,
@@ -3938,7 +3938,7 @@ South Canton Scholars Charter Academy,+1 734 398 5658,3085,South Canton Center R
 Fisher Elementary School,+1 313 532 2455,10000,Crosley,Redford,MI,48239,South Redford School District,0;1,,
 Jane Addams Elementary School,+1 313 532 8064,14025,Berwyn,Redford,MI,48239,South Redford School District,0;1,,
 John D. Pierce Middle School,+1 313 937 8880,25605,Orangelawn,Redford,MI,48239,South Redford School District,2,,
-Lee M. Thurston High School,+1 313 242 0600,26255,Schoolcraft,Redford,MI,48239,South Redford School District,3,,
+Lee M. Thurston High School,+1 313 242 0600,26255,Schoolcraft,Redford,MI,48239,South Redford School District,3,,,Q6514439,Lee M. Thurston High School,
 SOAR Academic Institute,+1 313 535 4000,26141,Schoolcraft,Redford,MI,48239,South Redford School District,2;3,,
 Thomas Jefferson Elementary School,+1 313 937 2330,26555,Westfield,Redford,MI,48239,South Redford School District,0;1,,
 Vandenberg Elementary School,+1 313 532 0300,24901,Cathedral,Redford,MI,48239,South Redford School District,0;1,,
