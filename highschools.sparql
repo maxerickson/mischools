@@ -1,11 +1,11 @@
 SELECT DISTINCT ?item ?itemLabel ?page_title ?gnis ?website WHERE {
   {
     SELECT ?item WHERE {
-    ?item wdt:P31 wd:Q9826; 
+    ?item wdt:P31/wdt:P279* wd:Q3914; 
         ?isin wd:Q1166.
     }
   } UNION {SELECT ?item WHERE {
-    ?item  wdt:P31 wd:Q9826;
+    ?item  wdt:P31/wdt:P279* wd:Q3914;
       wdt:P131*/wdt:P31 wd:Q13410496.
     }
   }
