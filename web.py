@@ -48,7 +48,6 @@ reviewed=set()
 with open("reviewed") as infile:
     for line in infile:
         reviewed.add(line.strip())
-print(reviewed)
 
 locations=dict()
 with open('geocodes.csv') as infile:
@@ -58,9 +57,11 @@ with open('geocodes.csv') as infile:
         if data:
             locations[(record[1],record[2])]=data
 
+schools=0
 with open("formatted.csv") as infile:
     csvin=csv.DictReader(infile)
     for record in csvin:
+        schools+=1
         districtlists[record["operator"]].append(record)
 
 districts=list(districtlists.keys())
@@ -77,14 +78,16 @@ index=open("docs/index.html","w")
 index.write(head)
 index.write("<ul>\n")
 locmatches=0
+reviewed_school_count=0
 for key in worklist:
     index.write('<li><a href="{}.html">{}</a></li>\n'.format(key,key))
     print(key,len(alphas[key]))
     with open("docs/"+key+".html", "w") as outfile:
         outfile.write(head)
         for dist in sorted(alphas[key]):
-            if dist in reviewed:
+            if dist.strip() in reviewed:
                 outfile.write("<div class=reviewed>")
+                reviewed_school_count+=len(districtlists[dist])
             else:
                 outfile.write("<div>")
             outfile.write("<h3>{}</h3>\n".format(dist))
@@ -105,13 +108,18 @@ for key in worklist:
                 outfile.write("<p>\n")
                 for tag in ['name','addr:housenumber','addr:street',
                                  'addr:city','addr:state','addr:postcode',
-                                 'phone','operator','isced:level','wikidata','wikipedia','website']:
+                                 'phone','operator','isced:level','wikidata','website']:
                     if record[tag]:
                         outfile.write("{}={}<br/>\n".format(tag,record[tag]))
+                if record['wikipedia']:
+                    outfile.write("wikipedia=en:{}<br/>\n".format(record['wikipedia']))
                 outfile.write("amenity=school<br/>\n")
                 outfile.write("</p>\n")
             outfile.write("</div>\n")
         outfile.write(foot)
 index.write("</ul>")
 index.write(foot)
-print(locmatches)
+print(schools,"schools.")
+print(locmatches,"addresses geocoded.")
+print(reviewed_school_count,"reviewed schools.")
+print("{:.1%} done.".format(reviewed_school_count / schools))

@@ -44,7 +44,10 @@ def expand_school_name(name):
     for i,p in enumerate(parts):
         if p in abbvs:
             parts[i]=abbvs[p]
-    return " ".join(parts)
+    newname=" ".join(parts)
+    if newname.endswith("Elementary"):
+        newname=newname+" School"
+    return newname
 
 def parse_street(street):
     number=""
@@ -54,6 +57,23 @@ def parse_street(street):
         idx+=1
     street=street[idx:].strip()
     return number,street
+
+district_renames={
+"Covenant House Academy Detroit":"Covenant House Academy",
+"Covenant House Academy Grand Rapids":"Covenant House Academy",
+"East Lansing School District":"East Lansing Public Schools",
+"Ewen-Trout Creek Consolidated School District":"Ewen-Trout Creek School District",
+"Ironwood Area Schools of Gogebic County":"Ironwood Area Schools",
+"Ishpeming Public School District No. 1":"Ishpeming Public Schools",
+"Muskegon, Public Schools of the City of":"Muskegon Public Schools",
+"Newaygo Public School District":"Newaygo Public Schools",
+"North Huron School District":"North Huron Schools",
+"Nottawa Community School":"Nottawa Community Schools",
+"NexTech High School of Lansing":"NexTech High School",
+"Oak Park, School District of the City of":"Oak Park Schools",
+"Paw Paw Public School District":"Paw Paw Public Schools",
+"Peck Community School District":"Peck Community Schools",
+"Unionville-Sebewaing Area S.D.":"Unionville-Sebewaing Area School District"}
 
 levels=[{"DevK","DevK-Part","KG","KG-Part"},
             {"1","2","3","4","5"},
@@ -73,7 +93,9 @@ with open("wikidata.csv") as source:
     data=csv.reader(source)
     header=next(data)
     for line in data:
-        wikidata[line[2]]=line
+        wikiname=line[2].rsplit("(")[0].strip()
+        #~ print(wikiname)
+        wikidata[wikiname]=line
 
 with open("formatted.csv", 'w') as outfile:
     csvout=csv.writer(outfile)
@@ -107,9 +129,16 @@ with open("formatted.csv", 'w') as outfile:
             if row[2]:
                 row[2]="+1 "+row[2][:3]+" "+row[2][3:6]+" "+row[2][6:]
             #city
-            row[4]=row[4].title().strip()
+            c=row[4].title().strip()
+            if c.startswith("Mc "):
+                c=c.replace("Mc ", "Mc")
+            row[4]=c
             #postcode
             row[6]=row[6][:5]
+            if "S/D" in row[7]:
+                row[7]=row[7].replace("S/D", "School District")
+            if row[7] in district_renames:
+                row[7]=district_renames[row[7]]
             row[8]=parse_grades(row[8])
             #religion affiliation
             if row[9] in denoms:
@@ -125,7 +154,7 @@ with open("formatted.csv", 'w') as outfile:
             row.insert(3,number)
             # add wikidata/wikipedia infos
             if name in wikidata:
-                print(name)
+                #~ print(name)
                 wd=wikidata[name]
                 row.append(wd[0].lstrip("http://www.wikidata.org/entity/"))
                 row.append(wd[2])

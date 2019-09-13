@@ -1,193 +1,488 @@
 item,itemLabel,page_title,gnis,website
-http://www.wikidata.org/entity/Q5016481,Cadillac High School,Cadillac High School,,http://cadillac.chs.schooldesk.net/
-http://www.wikidata.org/entity/Q5946889,Huron High School,"Huron High School (Ann Arbor, Michigan)",,http://www.a2huron.org
-http://www.wikidata.org/entity/Q5053094,Catholic Central High School,"Catholic Central High School (Grand Rapids, Michigan)",,http://www.grcatholiccentral.com
-http://www.wikidata.org/entity/Q5053096,Catholic Central High School,"Catholic Central High School (Manistee, Michigan)",,http://www.sabers.org
-http://www.wikidata.org/entity/Q5637279,Hackett Catholic Central High School,Hackett Catholic Prep High School,,http://www.hackettcc.org
-http://www.wikidata.org/entity/Q5417023,Everett High School,Everett High School (Michigan),,http://www.lansingschools.net/schools/high-schools/everett/
-http://www.wikidata.org/entity/Q5015844,Cabrini High School,Cabrini High School (Michigan),,http://www.cabrinihighschool.org
-http://www.wikidata.org/entity/Q5416948,Everest Academy and High School,Everest Collegiate High School and Academy,,http://www.everestcatholic.org/
-http://www.wikidata.org/entity/Q5244519,De La Salle Collegiate High School,De La Salle Collegiate High School,,http://www.delasallehs.com
-http://www.wikidata.org/entity/Q5647029,Hancock Central High School,Hancock Central High School (Michigan),,http://www.hancock.k12.mi.us/
-http://www.wikidata.org/entity/Q5929087,Hudsonville High School,Hudsonville High School,,http://www.hudsonville.k12.mi.us/HPS/index.php?option=com_content&task=section&id=12&Itemid=136
-http://www.wikidata.org/entity/Q5437597,Father Gabriel Richard High School,"Father Gabriel Richard High School (Ann Arbor, Michigan)",,http://www.fgrhs.org
-http://www.wikidata.org/entity/Q5912952,Houghton High School,Houghton High School,,http://hpts.us/
-http://www.wikidata.org/entity/Q5024077,Calumet High School,"Calumet High School (Calumet, Michigan)",,http://www.clkschools.org/high-school
-http://www.wikidata.org/entity/Q4917555,Bishop Foley Catholic High School,Bishop Foley Catholic High School,,http://www.bishopfoley.org
+http://www.wikidata.org/entity/Q6391647,Kent City High School,Kent City High School,,
+http://www.wikidata.org/entity/Q6353361,Kalkaska High School,Kalkaska High School,,
+http://www.wikidata.org/entity/Q6388895,Kendall College of Art and Design,Kendall College of Art and Design,,http://www.kcad.edu/
+http://www.wikidata.org/entity/Q6391329,Kenowa Hills High School,Kenowa Hills High School,,
+http://www.wikidata.org/entity/Q6395473,Kettering High School,Kettering High School,,
 http://www.wikidata.org/entity/Q6477225,Lake Orion High School,Lake Orion High School,,http://www.lakeorion.k12.mi.us/school_home.aspx?schoolid=1
-http://www.wikidata.org/entity/Q5604690,Greenville High School,Greenville High School (Michigan),,http://www.greenville.k12.mi.us/HighSchool.cfm?subpage=76967
+http://www.wikidata.org/entity/Q6473472,Lahser High School,Lahser High School,,http://lahser.bloomfield.org/
+http://www.wikidata.org/entity/Q6470827,Ladywood High School,Ladywood High School,,http://www.ladywood.org
+http://www.wikidata.org/entity/Q6455569,L'Anse Creuse High School,L'Anse Creuse High School,,http://www.lc-ps.org/index.aspx?page=715
 http://www.wikidata.org/entity/Q5249306,Deckerville High School,Deckerville High School,,
-http://www.wikidata.org/entity/Q4894701,Berrien Springs High School,Berrien Springs High School,,
+http://www.wikidata.org/entity/Q5188819,Crossroads Charter Academy,Crossroads Charter Academy,,http://www.ccabr.org
+http://www.wikidata.org/entity/Q5173412,Corunna High School,Corunna High School,,
 http://www.wikidata.org/entity/Q5188011,Croswell-Lexington High School,Croswell-Lexington High School,,
 http://www.wikidata.org/entity/Q5178831,Cousino High School,Cousino High School,,http://www.wcs.k12.mi.us/cousino
-http://www.wikidata.org/entity/Q5346142,Edwardsburg High School,Edwardsburg High School,,
-http://www.wikidata.org/entity/Q4729429,All Saints Central High School,All Saints Central High School,,http://www.ascbaycity.org
-http://www.wikidata.org/entity/Q5147866,Coloma High School,Coloma High School,,
-http://www.wikidata.org/entity/Q4683257,Stevenson High School,"Adlai E. Stevenson High School (Livonia, Michigan)",,http://stevenson.livonia.k12.mi.us/index.html
-http://www.wikidata.org/entity/Q4731997,Allendale High School,Allendale High School,,http://www.allendale.k12.mi.us/schools/highschool/
-http://www.wikidata.org/entity/Q4887146,Bendle High School,Bendle High School,,
-http://www.wikidata.org/entity/Q6470827,Ladywood High School,Ladywood High School,,http://www.ladywood.org
-http://www.wikidata.org/entity/Q5265872,Detroit Catholic Central High School,Detroit Catholic Central High School,,http://www.catholiccentral.net
-http://www.wikidata.org/entity/Q4712521,Albion High School,Albion High School (Michigan),,
-http://www.wikidata.org/entity/Q5672123,Harry S. Truman High School,"Harry S. Truman High School (Taylor, Michigan)",,http://truman.taylorschools.net/
-http://www.wikidata.org/entity/Q4916710,Birmingham Groves High School,Birmingham Groves High School,,
-http://www.wikidata.org/entity/Q4683260,Adlai E. Stevenson High School,"Adlai E. Stevenson High School (Sterling Heights, Michigan)",,http://www.uticak12.org/schools/sc_stevenson.asp
-http://www.wikidata.org/entity/Q5123218,City High-Middle School,City High-Middle School,,
-http://www.wikidata.org/entity/Q5528852,Gaylord High School,Gaylord High School,,
-http://www.wikidata.org/entity/Q4967663,Brighton High School,"Brighton High School (Brighton, Michigan)",,
-http://www.wikidata.org/entity/Q5049147,Cass City High School,Cass City Jr./Sr. High School,,http://www.casscityschools.org/schools/jr-sr-high/
-http://www.wikidata.org/entity/Q4733553,Alma High School,Alma High School (Michigan),,
-http://www.wikidata.org/entity/Q5126181,Clare High School,Clare High School,,
-http://www.wikidata.org/entity/Q5154774,Community High School,"Community High School (Ann Arbor, Michigan)",,
-http://www.wikidata.org/entity/Q5173412,Corunna High School,Corunna High School,,
-http://www.wikidata.org/entity/Q5330180,Eastern High School,Eastern High School (Michigan),,http://eastern.lansingschools.net
-http://www.wikidata.org/entity/Q5157692,Comstock High School,Comstock High School,,
-http://www.wikidata.org/entity/Q5148060,Colon High School,Colon High School,,
 http://www.wikidata.org/entity/Q5184667,Crestwood High School,Crestwood High School (Michigan),,
-http://www.wikidata.org/entity/Q5284076,Divine Child High School,Divine Child High School,,http://www.divinechildhighschool.org/
-http://www.wikidata.org/entity/Q5468958,Forest Hills Eastern High School,Forest Hills Eastern High School,,
+http://www.wikidata.org/entity/Q5265880,Detroit City High School,Detroit City High School,,
+http://www.wikidata.org/entity/Q5265872,Detroit Catholic Central High School,Detroit Catholic Central High School,,http://www.catholiccentral.net
+http://www.wikidata.org/entity/Q5244519,De La Salle Collegiate High School,De La Salle Collegiate High School,,http://www.delasallehs.com
+http://www.wikidata.org/entity/Q5246965,Dearborn High School,Dearborn High School,,
 http://www.wikidata.org/entity/Q5246958,"Dearborn Center for Math, Science and Technology","Dearborn Center for Math, Science and Technology",,
-http://www.wikidata.org/entity/Q4799078,Arthur Hill High School,Arthur Hill High School,,http://pub.spsd.net/arthurhill/index.html
-http://www.wikidata.org/entity/Q4892180,Berkley High School,Berkley High School,,http://www.berkleyschools.org/bhs
+http://www.wikidata.org/entity/Q5181958,Cranbrook Schools,Cranbrook Schools,,http://schools.cranbrook.edu/
+http://www.wikidata.org/entity/Q5256640,Denby High School,Denby High School,,http://icansoar.org/schools/high-school/denby-high-school/
+http://www.wikidata.org/entity/Q5265893,Detroit Country Day School,Detroit Country Day School,,http://www.dcds.edu
+http://www.wikidata.org/entity/Q5265891,Detroit Cristo Rey High School,Detroit Cristo Rey High School,,http://detroitcristorey.org
+http://www.wikidata.org/entity/Q5265898,Detroit Day School for the Deaf,Detroit Day School for the Deaf,,http://detroitk12.org/schools/school/326/
+http://www.wikidata.org/entity/Q5268404,Dexter High School,Dexter High School (Michigan),,http://dexterschools.org/dhs/
+http://www.wikidata.org/entity/Q5284076,Divine Child High School,Divine Child High School,,http://www.divinechildhighschool.org/
+http://www.wikidata.org/entity/Q5266008,Detroit School of Arts,Detroit School of Arts,,http://dsa.schools.detroitk12.org
+http://www.wikidata.org/entity/Q5289206,Dollar Bay High School,Dollar Bay High School,,http://www.dollarbay.k12.mi.us/
+http://www.wikidata.org/entity/Q5302166,Douglass Academy for Young Men,Douglass Academy for Young Men,,
+http://www.wikidata.org/entity/Q5346142,Edwardsburg High School,Edwardsburg High School,,
+http://www.wikidata.org/entity/Q5328709,East Kentwood High School,East Kentwood High School,,http://www.kentwoodps.org/ourschools/eastkentwoodhighschool1012/
+http://www.wikidata.org/entity/Q5328806,East Lansing High School,East Lansing High School,,https://elps.us/our-schools/east-lansing-high-school/
+http://www.wikidata.org/entity/Q5349923,Eisenhower High School,Eisenhower High School (Michigan),,
+http://www.wikidata.org/entity/Q5328480,East Grand Rapids High School,East Grand Rapids High School,,http://egrhs.egrps.org/
+http://www.wikidata.org/entity/Q5340287,Edsel Ford High School,Edsel Ford High School,,
+http://www.wikidata.org/entity/Q5330180,Eastern High School,Eastern High School (Michigan),,http://eastern.lansingschools.net
+http://www.wikidata.org/entity/Q5328664,East Jackson High School,East Jackson Secondary School,,http://eastjacksonsecondaryschool.weebly.com/
+http://www.wikidata.org/entity/Q5328319,East English Village Preparatory Academy,East English Village Preparatory Academy,,
+http://www.wikidata.org/entity/Q5443550,Fennville High School,Fennville High School,,http://www.fennville.org?option=com_content&view=article&id=73&Itemid=211
+http://www.wikidata.org/entity/Q5360184,Eli Broad College of Business,Eli Broad College of Business,,http://www.bus.msu.edu/
+http://www.wikidata.org/entity/Q5437597,Father Gabriel Richard High School,"Father Gabriel Richard High School (Ann Arbor, Michigan)",,http://www.fgrhs.org
+http://www.wikidata.org/entity/Q5364088,Elk Rapids High School,Elk Rapids High School,,
+http://www.wikidata.org/entity/Q5417023,Everett High School,Everett High School (Michigan),,http://www.lansingschools.net/schools/high-schools/everett/
+http://www.wikidata.org/entity/Q5416948,Everest Academy and High School,Everest Collegiate High School and Academy,,http://www.everestcatholic.org/
+http://www.wikidata.org/entity/Q5435887,Farmington Central High School,Farmington Central High School (Michigan),,http://www.farmington.k12.mi.us/fcs/fchs/
+http://www.wikidata.org/entity/Q5455600,Fitzgerald High School,Fitzgerald High School (Michigan),,
+http://www.wikidata.org/entity/Q5431150,"Faith Baptist School, Michigan","Faith Baptist School, Michigan",,http://www.fbsdavison.net/
+http://www.wikidata.org/entity/Q5445059,Ferndale High School,Ferndale High School (Michigan),,http://www.ferndaleschools.org/schools/ferndale-high-school/
 http://www.wikidata.org/entity/Q5416078,Evart High School,Evart High School,,
 http://www.wikidata.org/entity/Q5435896,Farmington High School,Farmington High School (Michigan),,
-http://www.wikidata.org/entity/Q5468966,Forest Hills Northern High School,Forest Hills Northern High School,,http://www.fhps.net/northernhs
-http://www.wikidata.org/entity/Q5459543,Flint Northwestern High School,Flint Northwestern High School,,
-http://www.wikidata.org/entity/Q5594999,Grand Rapids Christian High School,Grand Rapids Christian High School,,
-http://www.wikidata.org/entity/Q5610551,Grosse Pointe North High School,Grosse Pointe North High School,,http://gpschools.schoolwires.net/Domain/194
-http://www.wikidata.org/entity/Q6107396,J. W. Sexton High School,J. W. Sexton High School,,https://www.edline.net/pages/JWSexton_HS
-http://www.wikidata.org/entity/Q5149638,Columbia Central High School,"Columbia Central High School (Brooklyn, Michigan)",,http://www.myeagles.org/cchs/index.htm
-http://www.wikidata.org/entity/Q5721400,Henry Ford Academy,Henry Ford Academy,,
-http://www.wikidata.org/entity/Q5038575,Cardinal Mooney Catholic High School,"Cardinal Mooney Catholic High School (Marine City, Michigan)",,http://www.cardinalmooney.org
-http://www.wikidata.org/entity/Q5687983,Hazel Park High School,Hazel Park High School,,
-http://www.wikidata.org/entity/Q4829313,Avondale High School,Avondale High School (Michigan),,https://sites.google.com/a/avondaleschools.org/ahs/
-http://www.wikidata.org/entity/Q5086000,Charlotte High School,Charlotte High School (Michigan),,http://www.charlottenet.org/charlotte_high_school.html
-http://www.wikidata.org/entity/Q6032444,Ingham Academy High School,Ingham Academy High School (Michigan),,http://www.inghamisd.org/schools/inghamacademy/
-http://www.wikidata.org/entity/Q4685101,Adrian High School,Adrian High School (Michigan),,http://www.theadrianmaples.com/our-schools-43/adrian-high-school-57.html
-http://www.wikidata.org/entity/Q5435887,Farmington Central High School,Farmington Central High School (Michigan),,http://www.farmington.k12.mi.us/fcs/fchs/
-http://www.wikidata.org/entity/Q6094508,Ithaca High School,Ithaca High School (Michigan),,
-http://www.wikidata.org/entity/Q6391329,Kenowa Hills High School,Kenowa Hills High School,,
-http://www.wikidata.org/entity/Q4993370,Lincoln High School,"Lincoln High School (Warren, Michigan)",,http://www.vdps.net/lhs
-http://www.wikidata.org/entity/Q5654613,Harbor High School,Harbor High School (Michigan),,
-http://www.wikidata.org/entity/Q4956896,Brandon High School,Brandon High School (Michigan),2649470,
-http://www.wikidata.org/entity/Q4975554,Brother Rice High School,Brother Rice High School (Michigan),,http://www.brrice.edu
-http://www.wikidata.org/entity/Q5328664,East Jackson High School,East Jackson Secondary School,,http://eastjacksonsecondaryschool.weebly.com/
-http://www.wikidata.org/entity/Q5462914,Flushing High School,Flushing High School (Michigan),,http://www.flushingschools.org/HighSchool.cfm
-http://www.wikidata.org/entity/Q6477746,Lake Shore High School,Lake Shore High School,,
-http://www.wikidata.org/entity/Q1542881,St. Francis High School,"St. Francis High School (Traverse City, Michigan)",,
-http://www.wikidata.org/entity/Q5649356,Hanover-Horton High School,Hanover-Horton High School,,http://www.hanoverhorton.org/vnews/display.v/SEC/Schools%7CHigh%20School
-http://www.wikidata.org/entity/Q6232378,John F. Kennedy High School,"John F. Kennedy High School (Taylor, Michigan)",,
+http://www.wikidata.org/entity/Q5459542,Flint Northern High School,Flint Northern High School,,http://nhs.flintschools.org
 http://www.wikidata.org/entity/Q5468106,Fordson High School,Fordson High School,,http://fhs.dearbornschools.org/index.htm
-http://www.wikidata.org/entity/Q5665660,Harrison High School,Harrison High School (Michigan),,http://www.farmington.k12.mi.us/hhs/
-http://www.wikidata.org/entity/Q6235509,John Glenn High School,"John Glenn High School (Bangor Township, Michigan)",,
-http://www.wikidata.org/entity/Q5328709,East Kentwood High School,East Kentwood High School,,http://www.kentwoodps.org/ourschools/eastkentwoodhighschool1012/
+http://www.wikidata.org/entity/Q5468958,Forest Hills Eastern High School,Forest Hills Eastern High School,,
+http://www.wikidata.org/entity/Q5459566,Flint Southwestern Academy,Flint Southwestern Academy,,http://www.swa.flintschools.org/
+http://www.wikidata.org/entity/Q5462914,Flushing High School,Flushing High School (Michigan),,http://www.flushingschools.org/HighSchool.cfm
+http://www.wikidata.org/entity/Q5459477,Flint Central High School,Flint Central High School,,
+http://www.wikidata.org/entity/Q5468956,Forest Hills Central High School,Forest Hills Central High School,,
+http://www.wikidata.org/entity/Q5459543,Flint Northwestern High School,Flint Northwestern High School,,
+http://www.wikidata.org/entity/Q5522015,Garber High School,Garber High School,,
+http://www.wikidata.org/entity/Q5564620,Girls Catholic Central High School,Girls Catholic Central High School,,
 http://www.wikidata.org/entity/Q5515820,Gabriel Richard Catholic High School,Gabriel Richard Catholic High School,,http://www.gabrielrichard.org
-http://www.wikidata.org/entity/Q6479030,Lakeshore High School,Lakeshore High School,,http://www.lakeshoreschools.k12.mi.us/high/
-http://www.wikidata.org/entity/Q4731223,Allegan High School,Allegan High School,,http://www.alleganpublicschools.org/highschool/hshome.html
+http://www.wikidata.org/entity/Q5476411,Fowler High School,Fowler High School (Michigan),,
+http://www.wikidata.org/entity/Q5522206,Garden City High School,Garden City High School (Michigan),,
+http://www.wikidata.org/entity/Q5485878,Frank Cody High School,Frank Cody High School,,
+http://www.wikidata.org/entity/Q5528852,Gaylord High School,Gaylord High School,,
+http://www.wikidata.org/entity/Q5594314,Grand Blanc Community High School,Grand Blanc High School,,http://grandblanc.high.schoolfusion.us/
+http://www.wikidata.org/entity/Q5595001,Grand Rapids Civic Theatre & School of Theatre Arts,Grand Rapids Civic Theatre & School of Theatre Arts,,http://www.grct.org
+http://www.wikidata.org/entity/Q5594999,Grand Rapids Christian High School,Grand Rapids Christian High School,,
+http://www.wikidata.org/entity/Q5566369,Gladwin High School,Gladwin High School,,https://www.gladwinschools.net/Page/19
+http://www.wikidata.org/entity/Q5604007,Greenfield Union School,Greenfield Union School,,
+http://www.wikidata.org/entity/Q5604132,Greenhills School,Greenhills School,,http://www.greenhillsschool.org
+http://www.wikidata.org/entity/Q5599410,Great Lakes Adventist Academy,Great Lakes Adventist Academy,,http://www.glaa.net/
+http://www.wikidata.org/entity/Q5604690,Greenville High School,Greenville High School (Michigan),,http://www.greenville.k12.mi.us/HighSchool.cfm?subpage=76967
+http://www.wikidata.org/entity/Q5642718,Hall of the Divine Child,Hall of the Divine Child,,
+http://www.wikidata.org/entity/Q5637279,Hackett Catholic Central High School,Hackett Catholic Prep High School,,http://www.hackettcc.org
+http://www.wikidata.org/entity/Q5610558,Grosse Pointe South High School,Grosse Pointe South High School,,
+http://www.wikidata.org/entity/Q5610551,Grosse Pointe North High School,Grosse Pointe North High School,,http://gpschools.schoolwires.net/Domain/194
+http://www.wikidata.org/entity/Q5610541,Grosse Ile High School,Grosse Ile High School,,http://www.gischools.org/schools/highschool/
+http://www.wikidata.org/entity/Q5617737,Gull Lake High School,Gull Lake High School,,http://www.gulllakecs.org/Domain/84
+http://www.wikidata.org/entity/Q5663375,Harper Creek High School,Harper Creek High School,,http://hs.harpercreek.net/
+http://www.wikidata.org/entity/Q5646442,Hamtramck High School,Hamtramck High School,,
+http://www.wikidata.org/entity/Q5647029,Hancock Central High School,Hancock High School (Michigan),,http://www.hancock.k12.mi.us/
+http://www.wikidata.org/entity/Q5672123,Harry S. Truman High School,"Harry S. Truman High School (Taylor, Michigan)",,http://truman.taylorschools.net/
+http://www.wikidata.org/entity/Q5680366,Hastings High School,Hastings High School (Michigan),,http://www.hassk12.org/education/school/school.php?sectionid=3
+http://www.wikidata.org/entity/Q5665660,Harrison High School,Harrison High School (Michigan),,http://www.farmington.k12.mi.us/hhs/
+http://www.wikidata.org/entity/Q5674723,Hartland High School,Hartland High School (Michigan),,
+http://www.wikidata.org/entity/Q5649356,Hanover-Horton High School,Hanover-Horton High School,,http://www.hanoverhorton.org/vnews/display.v/SEC/Schools%7CHigh%20School
+http://www.wikidata.org/entity/Q5654613,Harbor High School,Harbor High School (Michigan),,
+http://www.wikidata.org/entity/Q5758967,Highland Park Community High School,Highland Park Community High School,,
+http://www.wikidata.org/entity/Q5921734,Howell High School,"Howell High School (Howell, Michigan)",,http://www.howellschools.com/HowellHigh.cfm?subpage=551603
 http://www.wikidata.org/entity/Q5734398,Herbert Henry Dow High School,Herbert Henry Dow High School,,https://dhs.midlandps.org
+http://www.wikidata.org/entity/Q5763792,Hillsdale High School,Hillsdale High School (Michigan),,
+http://www.wikidata.org/entity/Q5882029,Holly High School,Holly High School,,
+http://www.wikidata.org/entity/Q5912952,Houghton High School,Houghton High School,,http://hpts.us/
+http://www.wikidata.org/entity/Q6177528,Jenison High School,Jenison High School,,http://www.jpsonline.org/schools/jenison-high-school/
+http://www.wikidata.org/entity/Q6183926,Jerry L. White Center High School,Jerry L. White Center High School,,
+http://www.wikidata.org/entity/Q6004456,Immaculate Conception Ukrainian Catholic High School,Immaculate Conception Ukrainian Catholic High School,,http://www.icschools.org
+http://www.wikidata.org/entity/Q5929087,Hudsonville High School,Hudsonville High School,,http://www.hudsonville.k12.mi.us/HPS/index.php?option=com_content&task=section&id=12&Itemid=136
+http://www.wikidata.org/entity/Q6047120,Interlochen Center for the Arts,Interlochen Center for the Arts,633228,http://www.interlochen.org/
+http://www.wikidata.org/entity/Q6044598,Inter-City Baptist School,Inter-City Baptist School,,http://www.icbschool.org/
+http://www.wikidata.org/entity/Q6117136,Jackson High School,Jackson High School (Michigan),,
+http://www.wikidata.org/entity/Q6094508,Ithaca High School,Ithaca High School (Michigan),,
+http://www.wikidata.org/entity/Q5987031,Ida High School,Ida High School,,
+http://www.wikidata.org/entity/Q5946889,Huron High School,"Huron High School (Ann Arbor, Michigan)",,http://www.a2huron.org
+http://www.wikidata.org/entity/Q6032444,Ingham Academy High School,Ingham Academy High School (Michigan),,http://www.inghamisd.org/schools/inghamacademy/
+http://www.wikidata.org/entity/Q6107396,J. W. Sexton High School,J. W. Sexton High School,,https://www.edline.net/pages/JWSexton_HS
+http://www.wikidata.org/entity/Q5946959,Huron Valley Lutheran High School,Huron Valley Lutheran High School,,
+http://www.wikidata.org/entity/Q6235520,John Glenn High School,"John Glenn High School (Westland, Michigan)",,http://www.wwcsd.net/schools/high-schools/john-glenn-high-school/
+http://www.wikidata.org/entity/Q6232378,John F. Kennedy High School,"John F. Kennedy High School (Taylor, Michigan)",,
+http://www.wikidata.org/entity/Q6235509,John Glenn High School,"John Glenn High School (Bangor Township, Michigan)",,
+http://www.wikidata.org/entity/Q6350379,Kalamazoo Central High School,Kalamazoo Central High School,,
+http://www.wikidata.org/entity/Q4801428,Arts Academy in the Woods,Arts Academy in the Woods,,
+http://www.wikidata.org/entity/Q4759056,Andrews Academy,Andrews Academy,,http://www.andrews.edu/AA/
+http://www.wikidata.org/entity/Q4799078,Arthur Hill High School,Arthur Hill High School,,http://pub.spsd.net/arthurhill/index.html
+http://www.wikidata.org/entity/Q4767969,Annapolis High School,Annapolis High School (Michigan),,
+http://www.wikidata.org/entity/Q4752662,Anchor Bay High School,Anchor Bay High School,,
+http://www.wikidata.org/entity/Q4766226,Ann Arbor Open School,Ann Arbor Open School,,http://aaopen.a2schools.org/aaopen.home/home
+http://www.wikidata.org/entity/Q4685101,Adrian High School,Adrian High School (Michigan),,http://www.theadrianmaples.com/our-schools-43/adrian-high-school-57.html
+http://www.wikidata.org/entity/Q4712521,Albion High School,Albion High School (Michigan),,
+http://www.wikidata.org/entity/Q4683260,Adlai E. Stevenson High School,"Adlai E. Stevenson High School (Sterling Heights, Michigan)",,http://www.uticak12.org/schools/sc_stevenson.asp
+http://www.wikidata.org/entity/Q4683257,Stevenson High School,"Adlai E. Stevenson High School (Livonia, Michigan)",,http://stevenson.livonia.k12.mi.us/index.html
+http://www.wikidata.org/entity/Q4731223,Allegan High School,Allegan High School,,http://www.alleganpublicschools.org/highschool/hshome.html
+http://www.wikidata.org/entity/Q4734799,Alpena High School,Alpena High School (Michigan),,http://www.alpenaschools.com/schools/ahs
+http://www.wikidata.org/entity/Q4671557,Academy of the Sacred Heart,"Academy of the Sacred Heart (Bloomfield Township, Michigan)",,http://www.ashmi.org
+http://www.wikidata.org/entity/Q4733553,Alma High School,Alma High School (Michigan),,
 http://www.wikidata.org/entity/Q4731809,Allen Park High School,Allen Park High School,,http://www.apps.k12.mi.us
-http://www.wikidata.org/entity/Q4883856,Belleville High School,Belleville High School (Michigan),,http://www.vanburenschools.net/Domain/8
-http://www.wikidata.org/entity/Q5328806,East Lansing High School,East Lansing High School,,https://elps.us/our-schools/east-lansing-high-school/
-http://www.wikidata.org/entity/Q4813495,Athens High School,"Athens High School (Troy, Michigan)",,http://athens.troy.k12.mi.us/
+http://www.wikidata.org/entity/Q4729429,All Saints Central High School,All Saints Central High School,,http://www.ascbaycity.org
+http://www.wikidata.org/entity/Q4731997,Allendale High School,Allendale High School,,http://www.allendale.k12.mi.us/schools/highschool/
+http://www.wikidata.org/entity/Q267322,Wayne State University School of Medicine,Wayne State University School of Medicine,,http://www.med.wayne.edu
 http://www.wikidata.org/entity/Q4681245,Addison Community Schools,Addison Community Schools,,http://addisonschools.org/
-http://www.wikidata.org/entity/Q6693216,Lowell High School,Lowell High School (Michigan),,http://www.lowell.k12.mi.us/education/school/school.php?sectiondetailid=11368&backPath=L2VkdWNhdGlvbi9jb21wb25lbnRzL3NlYXJjaC9zZWFyY2gucGhwP3NlY3Rpb25kZXRhaWxpZD0xMTI0Ng==
-http://www.wikidata.org/entity/Q6550738,Lincoln High School,"Lincoln High School (Ypsilanti, Michigan)",,http://www.lincoln.k12.mi.us/vnews/display.v/SEC/School%20Buildings%7CLincoln%20High%20School
-http://www.wikidata.org/entity/Q6703185,Lumen Christi Catholic High School,Lumen Christi Catholic School,,http://jcslumenchristi.org/
-http://www.wikidata.org/entity/Q6514439,Lee M. Thurston High School,Lee M. Thurston High School,,
-http://www.wikidata.org/entity/Q6487446,Lansing Catholic High School,Lansing Catholic High School,,
-http://www.wikidata.org/entity/Q6728004,Madison High School,Madison High School (Michigan),,
-http://www.wikidata.org/entity/Q6552317,Linden High School,Linden High School (Michigan),,http://www.lindenschools.org/highschool.html
-http://www.wikidata.org/entity/Q6488135,Lapeer East High School,Lapeer East High School,,http://east.lapeerschools.org/
-http://www.wikidata.org/entity/Q6705711,Lutheran High School Westland,Lutheran High School Westland,,http://www.lhwl.lhsa.com/
-http://www.wikidata.org/entity/Q6771776,Marlette High School,Marlette High School,,http://www.marlette.k12.mi.us/jrsr-high-school/
-http://www.wikidata.org/entity/Q6775677,Martin High School,"Martin High School (Martin, Michigan)",,http://www.martinpublicschools.org/highschool/
-http://www.wikidata.org/entity/Q7369191,Ross Beatty Junior/Senior High School,Ross Beatty Junior/Senior High School,,http://cassopolis.k12.mi.us/ross-beatty/
+http://www.wikidata.org/entity/Q3029157,Ross School of Business,Ross School of Business,,http://www.bus.umich.edu/
+http://www.wikidata.org/entity/Q808759,Huron High School,"Huron High School (New Boston, Michigan)",,
+http://www.wikidata.org/entity/Q1542881,St. Francis High School,"St. Francis High School (Traverse City, Michigan)",,
+http://www.wikidata.org/entity/Q2822254,Michigan Military Academy,Michigan Military Academy,,
+http://www.wikidata.org/entity/Q4892180,Berkley High School,Berkley High School,,http://www.berkleyschools.org/bhs
+http://www.wikidata.org/entity/Q4894701,Berrien Springs High School,Berrien Springs High School,,
+http://www.wikidata.org/entity/Q4917501,Bishop Borgess High School,Bishop Borgess High School,,
+http://www.wikidata.org/entity/Q4890765,Benzie Central High School,Benzie Central High School,,http://www.benzieschools.net/index.php?page=benzie-central-high-school
+http://www.wikidata.org/entity/Q4916710,Birmingham Groves High School,Birmingham Groves High School,,
+http://www.wikidata.org/entity/Q4917555,Bishop Foley Catholic High School,Bishop Foley Catholic High School,,http://www.bishopfoley.org
+http://www.wikidata.org/entity/Q4857672,Baptist Park School,Baptist Park School,,http://www.baptistparkschool.com/
+http://www.wikidata.org/entity/Q4813495,Athens High School,"Athens High School (Troy, Michigan)",,http://athens.troy.k12.mi.us/
+http://www.wikidata.org/entity/Q4890474,Bentley High School,"Bentley High School (Livonia, Michigan)",,
+http://www.wikidata.org/entity/Q4887146,Bendle High School,Bendle High School,,
+http://www.wikidata.org/entity/Q4873959,Bay City Central High School,Bay City Central High School,,http://baycitycentral.com/
+http://www.wikidata.org/entity/Q4890571,Benton Harbor High School,Benton Harbor High School,,http://www.bhas.org/bhhs/
+http://www.wikidata.org/entity/Q4840157,Bad Axe High School,Bad Axe High School,,http://bahs.badaxeps.schooldesk.net/
+http://www.wikidata.org/entity/Q4883856,Belleville High School,Belleville High School (Michigan),,http://www.vanburenschools.net/Domain/8
+http://www.wikidata.org/entity/Q4829313,Avondale High School,Avondale High School (Michigan),,https://sites.google.com/a/avondaleschools.org/ahs/
+http://www.wikidata.org/entity/Q4873969,Bay City Western High School,Bay City Western High School,,http://www.baycitywestern.com/
+http://www.wikidata.org/entity/Q4868898,Bath Consolidated School,Bath Consolidated School,,http://www.bath.k12.mi.us/
+http://www.wikidata.org/entity/Q5142582,Coldwater High School,Coldwater High School (Michigan),,http://www.coldwaterschools.org/index.php?option=com_content&view=frontpage&Itemid=79
+http://www.wikidata.org/entity/Q5154638,Community Baptist Christian School,Community Baptist Christian School,,
+http://www.wikidata.org/entity/Q5154081,Communication & Media Arts High School,Communication & Media Arts High School,,http://www.cmahigh.com/
+http://www.wikidata.org/entity/Q5149638,Columbia Central High School,"Columbia Central High School (Brooklyn, Michigan)",,http://www.myeagles.org/cchs/index.htm
+http://www.wikidata.org/entity/Q5154774,Community High School,"Community High School (Ann Arbor, Michigan)",,
+http://www.wikidata.org/entity/Q5157690,Comstock Compass High School,Comstock Compass High School,,http://www.comstockps.org/education/components/layout/default.php?sectionid=12
+http://www.wikidata.org/entity/Q5148060,Colon High School,Colon High School,,
+http://www.wikidata.org/entity/Q5156073,Compass Academy,Compass College of Cinematic Arts,,http://compass.edu
+http://www.wikidata.org/entity/Q5146598,College for Creative Studies,College for Creative Studies,,http://www.collegeforcreativestudies.edu
+http://www.wikidata.org/entity/Q5147866,Coloma High School,Coloma High School,,
+http://www.wikidata.org/entity/Q5157692,Comstock High School,Comstock High School,,
+http://www.wikidata.org/entity/Q5167434,Cooley High School,Cooley High School,,
+http://www.wikidata.org/entity/Q4966593,Bridgeport High School,Bridgeport High School (Michigan),,http://www.bscs.k12.mi.us
+http://www.wikidata.org/entity/Q4956896,Brandon High School,Brandon High School (Michigan),2649470,
+http://www.wikidata.org/entity/Q4967663,Brighton High School,"Brighton High School (Brighton, Michigan)",,
+http://www.wikidata.org/entity/Q4924863,Blanche Kelso Bruce Academy,Blanche Kelso Bruce Academy,,http://www.bkbacademy.org/
+http://www.wikidata.org/entity/Q4974047,Bronson Jr./Sr. High School,Bronson Jr./Sr. High School,,
+http://www.wikidata.org/entity/Q4926885,Blissfield High School,Blissfield High School,,
+http://www.wikidata.org/entity/Q5016481,Cadillac High School,Cadillac High School,,http://cadillac.chs.schooldesk.net/
+http://www.wikidata.org/entity/Q5042909,Carlson High School,Carlson High School,,http://www.gibdist.net/gibdist/schools/Carlson/AboutUs
+http://www.wikidata.org/entity/Q5043172,Carman-Ainsworth High School,Carman-Ainsworth High School,,http://www.carman.k12.mi.us
+http://www.wikidata.org/entity/Q5038575,Cardinal Mooney Catholic High School,"Cardinal Mooney Catholic High School (Marine City, Michigan)",,http://www.cardinalmooney.org
+http://www.wikidata.org/entity/Q5052665,Catherine Ferguson Academy,Catherine Ferguson Academy,,
+http://www.wikidata.org/entity/Q5015844,Cabrini High School,Cabrini High School (Michigan),,http://www.cabrinihighschool.org
+http://www.wikidata.org/entity/Q5024077,Calumet High School,"Calumet High School (Calumet, Michigan)",,http://www.clkschools.org/high-school
+http://www.wikidata.org/entity/Q5049147,Cass City High School,Cass City Jr./Sr. High School,,http://www.casscityschools.org/schools/jr-sr-high/
+http://www.wikidata.org/entity/Q5049183,Cass Technical High School,Cass Technical High School,,
+http://www.wikidata.org/entity/Q4993370,Lincoln High School,"Lincoln High School (Warren, Michigan)",,https://www.vdps.net/lincoln-high-school/
+http://www.wikidata.org/entity/Q4975554,Brother Rice High School,Brother Rice High School (Michigan),,http://www.brrice.edu
+http://www.wikidata.org/entity/Q5065425,Cesar Chavez Academy,Cesar Chavez Academy,,
+http://www.wikidata.org/entity/Q5061204,Central High School,"Central High School (Traverse City, Michigan)",,
+http://www.wikidata.org/entity/Q5061175,Central High School,Central High School (Detroit),,
+http://www.wikidata.org/entity/Q5059311,Center Line High School,Center Line High School,,
+http://www.wikidata.org/entity/Q5053094,Catholic Central High School,"Catholic Central High School (Grand Rapids, Michigan)",,http://www.grcatholiccentral.com
+http://www.wikidata.org/entity/Q5053096,Catholic Central High School,"Catholic Central High School (Manistee, Michigan)",,http://www.sabers.org
+http://www.wikidata.org/entity/Q5071180,Chandler Park Academy,Chandler Park Academy,,
+http://www.wikidata.org/entity/Q5086000,Charlotte High School,Charlotte High School (Michigan),,http://www.charlottenet.org/charlotte_high_school.html
+http://www.wikidata.org/entity/Q5066496,Chadsey High School,Chadsey High School,,
+http://www.wikidata.org/entity/Q5126181,Clare High School,Clare High School,,
+http://www.wikidata.org/entity/Q5123218,City High-Middle School,City High-Middle School,,
+http://www.wikidata.org/entity/Q5090095,Chelsea High School,Chelsea High School (Michigan),,
+http://www.wikidata.org/entity/Q5127658,Clarkston High School,Clarkston High School (Michigan),,http://ww2.clarkston.k12.mi.us/education/school/school.php?sectiondetailid=48&sc_id=1191594900
+http://www.wikidata.org/entity/Q5123306,City Mission Academy,City Mission Academy,,http://city-mission.org/index.html
+http://www.wikidata.org/entity/Q7399260,Saginaw Arts and Sciences Academy,Saginaw Arts and Sciences Academy,,
+http://www.wikidata.org/entity/Q7401790,Saint Martin de Porres High School,Saint Martin de Porres High School (Detroit),,
+http://www.wikidata.org/entity/Q7399268,Heritage High School,"Heritage High School (Saginaw, Michigan)",,http://saginaw.cyberschool.com/HHS/
+http://www.wikidata.org/entity/Q7446642,Seidman College of Business,Seidman College of Business,,http://www.gvsu.edu/seidman
+http://www.wikidata.org/entity/Q7493394,Shelby High School,Shelby High School (Michigan),,http://shelbyhigh.mi.ssh.schoolinsites.com/
+http://www.wikidata.org/entity/Q7440488,Seaholm High School,Seaholm High School,,http://seaholm.birmingham.k12.mi.us/?sessionid=8e3ca76e1994ff057c0345d50f34f605&t
+http://www.wikidata.org/entity/Q7399270,Saginaw High School,Saginaw High School,,http://shs.spsd.net/
+http://www.wikidata.org/entity/Q7404689,Saline High School,Saline High School (Michigan),,http://www.salineschools.org/schools/saline-high-school/
+http://www.wikidata.org/entity/Q7397217,Sacred Heart High School,"Sacred Heart High School (Roseville, Michigan)",,
+http://www.wikidata.org/entity/Q7567870,South Lyon East High School,South Lyon East High School,,http://www.slcs.us/schools/south_lyon_east_high_school/index.php
+http://www.wikidata.org/entity/Q7569477,Southeastern High School,Southeastern High School (Michigan),,http://detroit.k12.mi.us/schools/southeastern/
+http://www.wikidata.org/entity/Q7570798,Southgate Anderson High School,Southgate Anderson High School,,http://southgateschools.com/?pagelist=Anderson
+http://www.wikidata.org/entity/Q7566817,South Christian High School,South Christian High School,,http://www.schs.org
+http://www.wikidata.org/entity/Q7504039,Shrine Catholic High School,Shrine Catholic High School,,http://www.shrineschools.com
+http://www.wikidata.org/entity/Q7590489,St. Mary High School,"St. Mary High School (Lake Leelanau, Michigan)",,http://www.stmarysll.org
+http://www.wikidata.org/entity/Q7591530,St. Philip Catholic Central High School,St. Philip Catholic Central High School,,http://bcacs.org/high-school.htm
+http://www.wikidata.org/entity/Q7580620,Spring Lake High School,Spring Lake High School,,http://www.springlakeschools.org/high/
+http://www.wikidata.org/entity/Q7590468,St. Mary Catholic Central High School,St. Mary Catholic Central High School,,http://www.smccmonroe.com
+http://www.wikidata.org/entity/Q7590469,St. Mary Cathedral High School,St. Mary Cathedral High School (Michigan),,http://www.gaylordstmary.org
+http://www.wikidata.org/entity/Q7611415,Sterling Heights High School,Sterling Heights High School,,
+http://www.wikidata.org/entity/Q7589327,St. Joseph High School,"St. Joseph High School (St. Joseph, Michigan)",,http://www.sjschools.org/site/default.aspx?domainid=97
+http://www.wikidata.org/entity/Q7591004,St. Patrick High School,"St. Patrick High School (Portland, Michigan)",,
+http://www.wikidata.org/entity/Q7571416,Southwestern High School,Southwestern High School (Michigan),,http://detroitk12.org/schools/school/584/
+http://www.wikidata.org/entity/Q7590391,St. Mary's Preparatory,St. Mary's Preparatory,,http://www.stmarysprep.com
+http://www.wikidata.org/entity/Q7573825,Sparta High School,Sparta High School (Michigan),,
+http://www.wikidata.org/entity/Q7619402,Stoney Creek High School,Stoney Creek High School,,http://www.rochester.k12.mi.us/pages/335/stoneycreek
+http://www.wikidata.org/entity/Q7781997,Theodore Roosevelt High School,Theodore Roosevelt High School (Michigan),,
+http://www.wikidata.org/entity/Q7743071,The Jean and Samuel Frankel Jewish Academy of Metropolitan Detroit,The Jean and Samuel Frankel Jewish Academy of Metropolitan Detroit,,http://www.frankelja.org
+http://www.wikidata.org/entity/Q7692906,Tecumseh High School,Tecumseh High School (Michigan),,http://www.tps.k12.mi.us/ths/index.html
+http://www.wikidata.org/entity/Q7629049,Sturgis High School,Sturgis High School,,http://www.sturgisps.org/hs/site/default.asp
+http://www.wikidata.org/entity/Q7714383,The Art Institute of Michigan,The Art Institute of Michigan,,http://www.artinstitutes.edu/detroit/
+http://www.wikidata.org/entity/Q7653528,Swan Valley High School,Swan Valley High School,,http://swanvalleyschools.com/highschool/
+http://www.wikidata.org/entity/Q7894804,University Liggett School,University Liggett School,,http://www.uls.org
+http://www.wikidata.org/entity/Q7836157,Traverse City West Senior High,Traverse City West Senior High School,,
+http://www.wikidata.org/entity/Q7886882,Unionville-Sebewaing Area High School,Unionville-Sebewaing Area High School,,
+http://www.wikidata.org/entity/Q7895335,University of Detroit Jesuit High School and Academy,University of Detroit Jesuit High School and Academy,,http://www.uofdjesuit.org/
+http://www.wikidata.org/entity/Q7902780,"Utica Center for Math, Science, and Technology","Utica Center for Math, Science, and Technology",,http://www.macomb.k12.mi.us/utica/ucsmstc/
+http://www.wikidata.org/entity/Q7885739,Union High School,"Union High School (Grand Rapids, Michigan)",,http://grpublicschools.org/unionhigh/
+http://www.wikidata.org/entity/Q7838580,Trenton High School,Trenton High School (Michigan),,http://www.trenton.k12.mi.us/index.aspx?school=6
+http://www.wikidata.org/entity/Q7846851,Troy High School,Troy High School (Michigan),,http://www.troycolts.org/
+http://www.wikidata.org/entity/Q7912126,Valley Lutheran High School,Valley Lutheran High School (Michigan),,http://vlhs.com/
+http://www.wikidata.org/entity/Q7963818,Walsh College of Accountancy and Business,Walsh College of Accountancy and Business,,http://www.walshcollege.edu
+http://www.wikidata.org/entity/Q7963011,Walled Lake Central High School,Walled Lake Central High School,,
+http://www.wikidata.org/entity/Q7963013,Walled Lake Northern High School,Walled Lake Northern High School,,
+http://www.wikidata.org/entity/Q7974035,Waterford Mott High School,Waterford Mott High School,,http://www.waterford.k12.mi.us/pages/61/mott
+http://www.wikidata.org/entity/Q7975494,Waverly Senior High School,Waverly Senior High School,,http://waverlyhighschool.net/
+http://www.wikidata.org/entity/Q7970609,Warren Woods Tower High School,Warren Woods Tower High School,,
+http://www.wikidata.org/entity/Q7974030,Waterford Kettering High School,Waterford Kettering High School,,http://www.waterford.k12.mi.us/pages/214/kettering
+http://www.wikidata.org/entity/Q7972634,Washtenaw Technical Middle College,Washtenaw Technical Middle College,,http://www.themiddlecollege.org/
+http://www.wikidata.org/entity/Q7974557,Watervliet High School,"Watervliet High School (Watervliet, Michigan)",,http://www.watervlietps.org/domain/46
+http://www.wikidata.org/entity/Q7982926,Wenona Center High School,Wenona Center High School,,
+http://www.wikidata.org/entity/Q7976468,Wayne Memorial High School,Wayne Memorial High School,,http://wayne.wwcsd.net/
+http://www.wikidata.org/entity/Q7984485,West Bloomfield High School,West Bloomfield High School,,http://www.westbloomfield.k12.mi.us/wbhs/
+http://www.wikidata.org/entity/Q7989880,Westwood High School,Westwood High School (Michigan),,
+http://www.wikidata.org/entity/Q7985548,West Iron County High School,West Iron County High School,,
+http://www.wikidata.org/entity/Q7987915,Western High School,"Western High School (Parma, Michigan)",,
+http://www.wikidata.org/entity/Q7996638,Whitmore Lake High School,Whitmore Lake Secondary School,,https://sites.google.com/a/wlps.net/high-school/
+http://www.wikidata.org/entity/Q7987971,Western International High School,Western International High School,,http://detroitk12.org/schools/western/
+http://www.wikidata.org/entity/Q7984672,West Catholic High School,West Catholic High School,,http://grwestcatholic.org
+http://www.wikidata.org/entity/Q7985909,West Michigan Lutheran High School,West Michigan Lutheran High School,,http://www.wmlhs.org
+http://www.wikidata.org/entity/Q12060444,Holt High School (Michigan),Holt High School (Michigan),,
+http://www.wikidata.org/entity/Q8040339,Wyoming High School,Wyoming High School (Michigan),,http://www.wyoming.k12.mi.us/015/index.htm
+http://www.wikidata.org/entity/Q8032714,Woodhaven High School,Woodhaven High School,,
+http://www.wikidata.org/entity/Q12204555,Michigan State University College of Human Medicine,Michigan State University College of Human Medicine,,http://www.chm.msu.edu/
+http://www.wikidata.org/entity/Q8059464,Ypsilanti High School,Ypsilanti High School,,http://wayback.archive.org/*/http://www.ypsd.org/schools/ypsihigh/index.html
+http://www.wikidata.org/entity/Q12060463,Holy Redeemer High School (Detroit),Holy Redeemer High School (Detroit),,
+http://www.wikidata.org/entity/Q8026063,Winston Churchill High School,"Winston Churchill High School (Livonia, Michigan)",,http://lpschurchill.ss5.sharpschool.com
+http://www.wikidata.org/entity/Q12204556,Michigan State University College of Osteopathic Medicine,Michigan State University College of Osteopathic Medicine,,http://www.com.msu.edu/
+http://www.wikidata.org/entity/Q14716184,Lake Michigan Catholic High School,Lake Michigan Catholic High School,,http://www.lmclakers.com
 http://www.wikidata.org/entity/Q14716118,Grass Lake High School,Grass Lake High School,,http://glhs.grasslakeschools.com/?sessionid=cbbeb0afef28eb60a6ef6c36a5f6af2f&t
 http://www.wikidata.org/entity/Q14716191,"Lincoln Park High School (Lincoln Park, Michigan)",Lincoln Park High School (Michigan),,http://lincolnparkpublicschools.com/web/?iduser=456&page=home
-http://www.wikidata.org/entity/Q14716347,Western Michigan Christian High School,Western Michigan Christian High School,,http://www.wmchs.net/
-http://www.wikidata.org/entity/Q7985909,West Michigan Lutheran High School,West Michigan Lutheran High School,,http://www.wmlhs.org
-http://www.wikidata.org/entity/Q8059464,Ypsilanti High School,Ypsilanti High School,,http://wayback.archive.org/*/http://www.ypsd.org/schools/ypsihigh/index.html
-http://www.wikidata.org/entity/Q7374619,Royal Oak High School,Royal Oak High School,,http://www.royaloakschools.com/portal/?q=rohs
-http://www.wikidata.org/entity/Q22059618,Our Lady Star of the Sea High School,Our Lady Star of the Sea High School (Michigan),,https://starschoolgrossepointe.org
-http://www.wikidata.org/entity/Q7440488,Seaholm High School,Seaholm High School,,http://seaholm.birmingham.k12.mi.us/?sessionid=8e3ca76e1994ff057c0345d50f34f605&t
-http://www.wikidata.org/entity/Q25205215,Northeastern High School,Northeastern High School (Michigan),,
-http://www.wikidata.org/entity/Q6781763,Marysville High School,"Marysville High School (Marysville, Michigan)",,http://www.marysville.k12.mi.us/1FUDDW4D
-http://www.wikidata.org/entity/Q7590489,St. Mary High School,"St. Mary High School (Lake Leelanau, Michigan)",,http://www.stmarysll.org
-http://www.wikidata.org/entity/Q14716225,"Midland High School (Midland, Michigan)","Midland High School (Midland, Michigan)",,http://midps.org/mhs
-http://www.wikidata.org/entity/Q14716314,Vandercook Lake High School,Vandercook Lake High School,,http://www.vandyschools.org/webapp
-http://www.wikidata.org/entity/Q7987915,Western High School,"Western High School (Parma, Michigan)",,
-http://www.wikidata.org/entity/Q7591530,St. Philip Catholic Central High School,St. Philip Catholic Central High School,,http://bcacs.org/high-school.htm
-http://www.wikidata.org/entity/Q7397102,Sacred Heart Academy High School,"Sacred Heart Academy High School (Mt. Pleasant, Michigan)",,http://www.sha.net
-http://www.wikidata.org/entity/Q7974030,Waterford Kettering High School,Waterford Kettering High School,,http://www.waterford.k12.mi.us/pages/214/kettering
-http://www.wikidata.org/entity/Q22059667,St. Agatha High School,St. Agatha High School (Michigan),,
-http://www.wikidata.org/entity/Q22059727,St. Mary of Redford High School,St. Mary of Redford High School,,
-http://www.wikidata.org/entity/Q7355242,Rockford High School,Rockford High School (Michigan),,
-http://www.wikidata.org/entity/Q7590469,St. Mary Cathedral High School,St. Mary Cathedral High School (Michigan),,http://www.gaylordstmary.org
-http://www.wikidata.org/entity/Q7846851,Troy High School,Troy High School (Michigan),,http://www.troycolts.org/
-http://www.wikidata.org/entity/Q7984672,West Catholic High School,West Catholic High School,,http://grwestcatholic.org
-http://www.wikidata.org/entity/Q7205811,Plymouth High School,Plymouth High School (Michigan),,http://pcep.pccs.k12.mi.us/
-http://www.wikidata.org/entity/Q7308482,Regina High School,Regina High School (Michigan),,http://www.reginahs.com
-http://www.wikidata.org/entity/Q14716126,Haslett High School,Haslett High School,,https://www.haslett.k12.mi.us/hhs
-http://www.wikidata.org/entity/Q7629049,Sturgis High School,Sturgis High School,,http://www.sturgisps.org/hs/site/default.asp
-http://www.wikidata.org/entity/Q22025532,St. Ambrose High School,"St. Ambrose High School (Grosse Pointe, Michigan)",,
-http://www.wikidata.org/entity/Q14875208,International Academy of Macomb,International Academy of Macomb,,http://iamacomb.org/
-http://www.wikidata.org/entity/Q7073670,Oak Park High School,Oak Park High School (Michigan),,http://www.oakparkschools.org/node/152
-http://www.wikidata.org/entity/Q22059744,St. Paul High School,"St. Paul High School (Grosse Pointe Farms, Michigan)",,
-http://www.wikidata.org/entity/Q22059684,St. Frederick High School,"St. Frederick High School (Pontiac, Michigan)",,
-http://www.wikidata.org/entity/Q22059709,St. Ladislaus High School,St. Ladislaus High School,,
-http://www.wikidata.org/entity/Q7885739,Union High School,"Union High School (Grand Rapids, Michigan)",,http://grpublicschools.org/unionhigh/
-http://www.wikidata.org/entity/Q7363094,Romeo High School,Romeo High School,,http://romeo.k12.mi.us/pages/214/romeo-high-school
-http://www.wikidata.org/entity/Q7353940,Rochester Adams High School,Rochester Adams High School,,http://www.rochester.k12.mi.us/pages/214/adams
-http://www.wikidata.org/entity/Q7353983,Rochester High School,Rochester High School (Michigan),,http://www.rochester.k12.mi.us/rochester-high-school/pages/334/rochester-high-school-home-page
-http://www.wikidata.org/entity/Q7996638,Whitmore Lake High School,Whitmore Lake Secondary School,,https://sites.google.com/a/wlps.net/high-school/
-http://www.wikidata.org/entity/Q7974035,Waterford Mott High School,Waterford Mott High School,,http://www.waterford.k12.mi.us/pages/61/mott
-http://www.wikidata.org/entity/Q6789627,Mattawan High School,Mattawan High School,,http://www.mattawanschools.org/hs
-http://www.wikidata.org/entity/Q14716132,Henry Ford II High School,Henry Ford II High School,,
-http://www.wikidata.org/entity/Q7504039,Shrine Catholic High School,Shrine Catholic High School,,http://www.shrineschools.com
-http://www.wikidata.org/entity/Q7205752,Plymouth-Canton Educational Park,Plymouth-Canton Educational Park,,http://pcep.pccs.k12.mi.us/
-http://www.wikidata.org/entity/Q23302639,DeWitt High School,DeWitt High School (Michigan),,
-http://www.wikidata.org/entity/Q7063955,Nouvel Catholic Central High School,Nouvel Catholic Central High School,,http://www.sacschools.org/nouvel/home.aspx
-http://www.wikidata.org/entity/Q7589327,St. Joseph High School,"St. Joseph High School (St. Joseph, Michigan)",,http://www.sjschools.org/site/default.aspx?domainid=97
-http://www.wikidata.org/entity/Q6749921,Manistee High School,Manistee High School,,
-http://www.wikidata.org/entity/Q8040339,Wyoming High School,Wyoming High School (Michigan),,http://www.wyoming.k12.mi.us/015/index.htm
-http://www.wikidata.org/entity/Q14716184,Lake Michigan Catholic High School,Lake Michigan Catholic High School,,http://www.lmclakers.com
-http://www.wikidata.org/entity/Q7056164,North Muskegon High School,North Muskegon High School,,
-http://www.wikidata.org/entity/Q7231405,Portage Central High School,Portage Central High School,622990,
-http://www.wikidata.org/entity/Q28147907,Bridgman High School,Bridgman High School,,
-http://www.wikidata.org/entity/Q7179542,Pewamo-Westphalia Community Schools,Pewamo-Westphalia Community Schools,,https://www.pwschools.org/
-http://www.wikidata.org/entity/Q7404689,Saline High School,Saline High School (Michigan),,http://www.salineschools.org/schools/saline-high-school/
-http://www.wikidata.org/entity/Q6942754,Muskegon Catholic Central High School,Muskegon Catholic Central High School,,http://www.muskegoncatholic.org
-http://www.wikidata.org/entity/Q7161599,Pellston High School,Pellston High School,,
-http://www.wikidata.org/entity/Q19461005,Clarence M. Kimball High School,Clarence M. Kimball High School,,
-http://www.wikidata.org/entity/Q7115351,Oxford High School,Oxford High School (Michigan),,http://www.oxfordschools.org/section_display.cfm?section_id=14
-http://www.wikidata.org/entity/Q6772616,"Marquette Senior High School, Marquette, Michigan","Marquette Senior High School (Marquette, Michigan)",,
-http://www.wikidata.org/entity/Q19771669,Buena Vista High School,Buena Vista High School (Michigan),,
-http://www.wikidata.org/entity/Q6818747,Mercy High School,"Mercy High School (Farmington Hills, Michigan)",,
-http://www.wikidata.org/entity/Q7111023,Our Lady of the Lakes High School,Our Lady of the Lakes Catholic School (Michigan),,
-http://www.wikidata.org/entity/Q28230665,Harper Woods High School,Harper Woods High School,,
-http://www.wikidata.org/entity/Q24040104,Pontiac Catholic High School,Pontiac Catholic High School,,
-http://www.wikidata.org/entity/Q24040106,River Rouge Our Lady of Lourdes High School,"Our Lady of Lourdes High School (River Rouge, Michigan)",,
-http://www.wikidata.org/entity/Q7055345,North Farmington High School,North Farmington High School,,
-http://www.wikidata.org/entity/Q60745126,Otsego High School,Otsego High School (Michigan),,
-http://www.wikidata.org/entity/Q7073992,Oakland Early College,Oakland Early College,,
-http://www.wikidata.org/entity/Q19864988,Lake Linden–Hubbell High School,Lake Linden–Hubbell High School,,
-http://www.wikidata.org/entity/Q7110914,Our Lady of Mount Carmel High School,"Our Lady of Mount Carmel High School (Wyandotte, Michigan)",,
-http://www.wikidata.org/entity/Q6814114,Melvindale High School,Melvindale High School,,http://www.melnap.k12.mi.us/education/school/school.php?sectionid=4&
+http://www.wikidata.org/entity/Q14716219,Michigan Lutheran Seminary,Michigan Lutheran Seminary,,
 http://www.wikidata.org/entity/Q14716157,International Academy,International Academy,,http://www.iatoday.org/
 http://www.wikidata.org/entity/Q14716313,Utica High School (Michigan),Utica High School (Michigan),,http://www.uticak12.org/schools/sc_utica.asp
-http://www.wikidata.org/entity/Q7230697,Port Huron Northern High School,Port Huron Northern High School,,http://phn.phasd.us
-http://www.wikidata.org/entity/Q7399268,Heritage High School,"Heritage High School (Saginaw, Michigan)",,http://saginaw.cyberschool.com/HHS/
-http://www.wikidata.org/entity/Q7397217,Sacred Heart High School,"Sacred Heart High School (Roseville, Michigan)",,
-http://www.wikidata.org/entity/Q7109187,Ottawa Hills High School,Ottawa Hills High School (Michigan),,
-http://www.wikidata.org/entity/Q7970609,Warren Woods Tower High School,Warren Woods Tower High School,,
-http://www.wikidata.org/entity/Q16998238,Kent Innovation High,Kent Innovation High,,http://studentvoice.kentisd.org/theschool/
-http://www.wikidata.org/entity/Q7982926,Wenona Center High School,Wenona Center High School,,
-http://www.wikidata.org/entity/Q7399270,Saginaw High School,Saginaw High School,,http://shs.spsd.net/
-http://www.wikidata.org/entity/Q7236811,Powers Catholic High School,Powers Catholic High School,,http://www.powerscatholic.org/
-http://www.wikidata.org/entity/Q12060444,Holt High School (Michigan),Holt High School (Michigan),,
-http://www.wikidata.org/entity/Q6761901,Marian High School,Marian High School (Michigan),,http://www.marian-hs.org
-http://www.wikidata.org/entity/Q7974557,Watervliet High School,"Watervliet High School (Watervliet, Michigan)",,http://www.watervlietps.org/domain/46
-http://www.wikidata.org/entity/Q6965037,Napoleon High School,Napoleon High School (Michigan),,
+http://www.wikidata.org/entity/Q14716132,Henry Ford II High School,Henry Ford II High School,,
+http://www.wikidata.org/entity/Q14716126,Haslett High School,Haslett High School,,https://www.haslett.k12.mi.us/hhs
+http://www.wikidata.org/entity/Q14716225,"Midland High School (Midland, Michigan)","Midland High School (Midland, Michigan)",,http://midps.org/mhs
+http://www.wikidata.org/entity/Q14716314,Vandercook Lake High School,Vandercook Lake High School,,http://www.vandyschools.org/webapp
+http://www.wikidata.org/entity/Q14716202,Louhelen Bahá'í School,Louhelen Bahá'í School,,http://www.louhelen.org
+http://www.wikidata.org/entity/Q14716272,Romeo Engineering and Technology Center,Romeo Engineering and Technology Center,,http://www.romeo.k12.mi.us/pages/50948/romeo-engineering-and-technology-center
 http://www.wikidata.org/entity/Q14716343,Walled Lake Western High School,Walled Lake Western High School,,http://www.wlcsd.org/western.cfm
-http://www.wikidata.org/entity/Q7591004,St. Patrick High School,"St. Patrick High School (Portland, Michigan)",,
+http://www.wikidata.org/entity/Q14716084,Defer Elementary School,Defer Elementary School,,
+http://www.wikidata.org/entity/Q14716285,Southfield Christian School,Southfield Christian School,,
+http://www.wikidata.org/entity/Q14716300,The Leelanau School,The Leelanau School,,
+http://www.wikidata.org/entity/Q6935395,Mumford High School,Mumford High School,,http://detroitk12.org/schools/mumford/
+http://www.wikidata.org/entity/Q6772616,"Marquette Senior High School, Marquette, Michigan","Marquette Senior High School (Marquette, Michigan)",,
+http://www.wikidata.org/entity/Q6842372,Midland Montessori School,Midland Montessori School,,
+http://www.wikidata.org/entity/Q6513886,Lee High School,"Lee High School (Wyoming, Michigan)",,
+http://www.wikidata.org/entity/Q6728004,Madison High School,Madison High School (Michigan),,
+http://www.wikidata.org/entity/Q7037017,Niles Community High School,Niles Community High School,,http://niles.troy.k12.mi.us/
+http://www.wikidata.org/entity/Q6773619,Marshall High School,Marshall High School (Michigan),,http://www.marshall.k12.mi.us/MHS/index.php
+http://www.wikidata.org/entity/Q6477746,Lake Shore High School,Lake Shore High School,,
+http://www.wikidata.org/entity/Q7105759,Osborn High School,Osborn High School,,
+http://www.wikidata.org/entity/Q7110914,Our Lady of Mount Carmel High School,"Our Lady of Mount Carmel High School (Wyandotte, Michigan)",,
+http://www.wikidata.org/entity/Q7053604,NorthPointe Christian Schools,NorthPointe Christian Schools,,http://www.npchristian.org
+http://www.wikidata.org/entity/Q7196697,Pioneer High School,"Pioneer High School (Ann Arbor, Michigan)",,http://www.a2schools.org/pioneer
+http://www.wikidata.org/entity/Q7111023,Our Lady of the Lakes High School,Our Lady of the Lakes Catholic School (Michigan),,
+http://www.wikidata.org/entity/Q7178490,Petoskey High School,Petoskey High School,,http://www.petoskeyschools.org/schools/high-school/
+http://www.wikidata.org/entity/Q7305863,Redford High School,Redford High School,,
+http://www.wikidata.org/entity/Q7231405,Portage Central High School,Portage Central High School,622990,
+http://www.wikidata.org/entity/Q16983311,Western Michigan University Homer Stryker M.D. School of Medicine,Western Michigan University Homer Stryker M.D. School of Medicine,,http://med.wmich.edu/
+http://www.wikidata.org/entity/Q7337927,River Valley High School,River Valley High School (Michigan),,
+http://www.wikidata.org/entity/Q7353940,Rochester Adams High School,Rochester Adams High School,,http://www.rochester.k12.mi.us/pages/214/adams
+http://www.wikidata.org/entity/Q7305868,Redford Union High School,Redford Union High School,,
+http://www.wikidata.org/entity/Q16975397,Penny W. Stamps School of Art & Design,Penny W. Stamps School of Art & Design,,http://www.art-design.umich.edu
+http://www.wikidata.org/entity/Q17514053,Jalen Rose Leadership Academy,Jalen Rose Leadership Academy,,
+http://www.wikidata.org/entity/Q17012761,Oakland Christian School,Oakland Christian School,,http://www.oaklandchristian.com/
+http://www.wikidata.org/entity/Q17033437,Warren Woods Christian School,Warren Woods Christian School,,
+http://www.wikidata.org/entity/Q17513590,Caledonia High School,Caledonia High School (Michigan),,
+http://www.wikidata.org/entity/Q17021615,St. Thomas More Academy,"St. Thomas More Academy (Burton, Michigan)",,http://www.stma-mi.org/
+http://www.wikidata.org/entity/Q16997631,Japhet School,Japhet School,,http://www.japhetschool.org
+http://www.wikidata.org/entity/Q17513142,Northville Christian School,Northville Christian School,,http://www.northvillechristianschool.org/
+http://www.wikidata.org/entity/Q16993784,Franklin Road Christian School,Novi Christian Academy,,http://www.franklinroadchristianschool.org
+http://www.wikidata.org/entity/Q17039986,Northern High School,"Northern High School (Detroit, Michigan)",,
+http://www.wikidata.org/entity/Q16998238,Kent Innovation High,Kent Innovation High,,http://studentvoice.kentisd.org/theschool/
+http://www.wikidata.org/entity/Q16995679,Holly Academy,Holly Academy,,
+http://www.wikidata.org/entity/Q17033422,Warren Mott High School,Warren Mott High School,,
+http://www.wikidata.org/entity/Q17021009,St. Catherine of Siena Academy,St. Catherine of Siena Academy,,http://www.saintcatherineacademy.org
+http://www.wikidata.org/entity/Q17986450,Chippewa Valley High School,Chippewa Valley High School,,
+http://www.wikidata.org/entity/Q19572965,McBain Rural Agricultural School,McBain Rural Agricultural School,,
+http://www.wikidata.org/entity/Q20630715,Detroit International Academy for Young Women,Detroit International Academy for Young Women,,
+http://www.wikidata.org/entity/Q19461005,Clarence M. Kimball High School,Clarence M. Kimball High School,,
+http://www.wikidata.org/entity/Q19864988,Lake Linden–Hubbell High School,Lake Linden–Hubbell High School,,
+http://www.wikidata.org/entity/Q20711254,Detroit East Catholic High School,Detroit East Catholic High School,,
+http://www.wikidata.org/entity/Q18705955,Millington Jr./Sr. High School,Millington Jr./Sr. High School,,
+http://www.wikidata.org/entity/Q18159068,Vicksburg High School,Vicksburg High School (Michigan),,http://www.vicksburgcommunityschools.org/high_school/
+http://www.wikidata.org/entity/Q19768457,Saginaw Career Complex,Saginaw Career Complex,,http://saginawcareercomplex.com
+http://www.wikidata.org/entity/Q19771683,Birch Run High School,Birch Run High School,,http://www.birchrun.k12.mi.us/District/Department/5-Birch-Run-High-School
+http://www.wikidata.org/entity/Q20511467,AGBU Alex and Marie Manoogian School,AGBU Alex and Marie Manoogian School,,http://www.manoogian.org/
+http://www.wikidata.org/entity/Q19771669,Buena Vista High School,Buena Vista High School (Michigan),,
+http://www.wikidata.org/entity/Q21015949,Crockett High School,Crockett High School (Michigan),,
+http://www.wikidata.org/entity/Q21015956,Detroit Waldorf School,Detroit Waldorf School,,
+http://www.wikidata.org/entity/Q22021725,All Saints High School,"All Saints High School (Detroit, Michigan)",,
+http://www.wikidata.org/entity/Q22022472,Felician Academy,"Felician Academy (Detroit, Michigan)",,
+http://www.wikidata.org/entity/Q22021800,Austin Catholic Preparatory School,Austin Catholic Preparatory School,,
+http://www.wikidata.org/entity/Q22022310,Davis Aerospace Technical High School,Davis Aerospace Technical High School,,
+http://www.wikidata.org/entity/Q22033643,Cathedral High School,"Cathedral High School (Detroit, Michigan)",,
+http://www.wikidata.org/entity/Q22033968,Dominican High School,Dominican High School (Detroit),,
+http://www.wikidata.org/entity/Q22025532,St. Ambrose High School,"St. Ambrose High School (Grosse Pointe, Michigan)",,
+http://www.wikidata.org/entity/Q22025533,St. Anne High School,"St. Anne High School (Warren, Michigan)",,
+http://www.wikidata.org/entity/Q22033079,Annunciation High School,Annunciation High School (Detroit),,
+http://www.wikidata.org/entity/Q22059561,Nativity High School,"Nativity High School (Detroit, Michigan)",,
+http://www.wikidata.org/entity/Q22059651,Servite High School,Servite High School (Detroit),,
+http://www.wikidata.org/entity/Q22059517,Immaculata High School,"Immaculata High School (Detroit, Michigan)",,
+http://www.wikidata.org/entity/Q22059618,Our Lady Star of the Sea High School,Our Lady Star of the Sea High School (Michigan),,https://starschoolgrossepointe.org
+http://www.wikidata.org/entity/Q22059642,Salesian High School,Salesian High School (Detroit),,
 http://www.wikidata.org/entity/Q7797754,Three Rivers High School,Three Rivers High School (Michigan),,http://www.trschools.org/ths/
+http://www.wikidata.org/entity/Q5687983,Hazel Park High School,Hazel Park High School,,
+http://www.wikidata.org/entity/Q5135034,Clonlara School,Clonlara School,,
+http://www.wikidata.org/entity/Q5721400,Henry Ford Academy,Henry Ford Academy,,
+http://www.wikidata.org/entity/Q5721415,Henry Ford High School,"Henry Ford High School (Detroit, Michigan)",,
+http://www.wikidata.org/entity/Q7799444,Thurston Elementary School,Thurston Elementary School,,http://www.a2schools.org/thurston.home/
+http://www.wikidata.org/entity/Q5468966,Forest Hills Northern High School,Forest Hills Northern High School,,http://www.fhps.net/northernhs
+http://www.wikidata.org/entity/Q56278521,Roseville High School,Roseville High School (Michigan),,
+http://www.wikidata.org/entity/Q55634037,Stockbridge Junior / Senior High School,Stockbridge Junior / Senior High School,,http://panthernet.net/shs
+http://www.wikidata.org/entity/Q66725666,Fruitport High School,Fruitport High School,,
+http://www.wikidata.org/entity/Q55886526,L'Anse Creuse High School - North,L'Anse Creuse High School - North,,http://www.lc-ps.org/schools/hs/lchs-north/
+http://www.wikidata.org/entity/Q60745126,Otsego High School,Otsego High School (Michigan),,
+http://www.wikidata.org/entity/Q22059727,St. Mary of Redford High School,St. Mary of Redford High School,,
+http://www.wikidata.org/entity/Q22059769,Sweetest Heart of Mary High School,"Sweetest Heart of Mary High School (Detroit, Michigan)",,
+http://www.wikidata.org/entity/Q22059803,West Michigan Aviation Academy,West Michigan Aviation Academy,,http://www.westmichiganaviation.org/
+http://www.wikidata.org/entity/Q22059761,St. Stanislaus High School,St. Stanislaus High School (Detroit),,
+http://www.wikidata.org/entity/Q22059701,St. Joseph High School,"St. Joseph High School (Detroit, Michigan)",,
+http://www.wikidata.org/entity/Q22059709,St. Ladislaus High School,St. Ladislaus High School,,
+http://www.wikidata.org/entity/Q22059752,St. Rita High School,St. Rita High School (Detroit),,
+http://www.wikidata.org/entity/Q22059744,St. Paul High School,"St. Paul High School (Grosse Pointe Farms, Michigan)",,
+http://www.wikidata.org/entity/Q28147907,Bridgman High School,Bridgman High School,,
+http://www.wikidata.org/entity/Q25205215,Northeastern High School,Northeastern High School (Michigan),,
+http://www.wikidata.org/entity/Q23303035,Waterford Durant High School,Waterford Durant High School,,http://www.waterford.k12.mi.us/pages/219/durant
+http://www.wikidata.org/entity/Q24062222,Detroit Leadership Academy,Detroit Leadership Academy,,
+http://www.wikidata.org/entity/Q28147904,Baldwin Senior High School,Baldwin Senior High School (Michigan),,
+http://www.wikidata.org/entity/Q24040104,Pontiac Catholic High School,Pontiac Catholic High School,,
+http://www.wikidata.org/entity/Q24040106,River Rouge Our Lady of Lourdes High School,"Our Lady of Lourdes High School (River Rouge, Michigan)",,
+http://www.wikidata.org/entity/Q24040229,Universal Academy,Universal Academy,,
+http://www.wikidata.org/entity/Q24040230,Universal Learning Academy,Universal Learning Academy,,http://www.ulapsa.org/
+http://www.wikidata.org/entity/Q23302639,DeWitt High School,DeWitt High School (Michigan),,
+http://www.wikidata.org/entity/Q23302577,Arbor Preparatory High School,Arbor Preparatory High School,,http://www.Arborprep.com
+http://www.wikidata.org/entity/Q25352016,St. Theresa of Avila High School,St. Theresa of Avila High School (Detroit),,
+http://www.wikidata.org/entity/Q28230620,Bullock Creek High School,Bullock Creek High School,,http://www.bcreek.k12.mi.us/
+http://www.wikidata.org/entity/Q28450440,Jeffers High School,Jeffers High School,,http://www.adams.k12.mi.us
+http://www.wikidata.org/entity/Q28230665,Harper Woods High School,Harper Woods High School,,
+http://www.wikidata.org/entity/Q38252024,Monroe High School,Monroe High School (Michigan),,
+http://www.wikidata.org/entity/Q30609737,Beecher High School,Beecher High School (Michigan),,
+http://www.wikidata.org/entity/Q51604408,Byron High School,"Byron High School (Byron, Michigan)",,https://www.byron.k12.mi.us/site/Default.aspx?PageID=84
+http://www.wikidata.org/entity/Q55606070,Buchanan High School (Michigan),Buchanan High School (Michigan),,http://www.buchananschools.com/buchanan-high-school/
+http://www.wikidata.org/entity/Q55608857,Dakota High School (Michigan),Dakota High School (Michigan),,http://www.chippewavalleyschools.org/schools/high-schools/dhs/
+http://www.wikidata.org/entity/Q55605228,"Bentley High School (Burton, Michigan)","Bentley High School (Burton, Michigan)",,
+http://www.wikidata.org/entity/Q6694418,Loy Norrix High School,Loy Norrix High School,,
+http://www.wikidata.org/entity/Q6488135,Lapeer East High School,Lapeer East High School,,http://east.lapeerschools.org/
+http://www.wikidata.org/entity/Q6479030,Lakeshore High School,Lakeshore High School,,http://www.lakeshoreschools.k12.mi.us/high/
+http://www.wikidata.org/entity/Q6693216,Lowell High School,Lowell High School (Michigan),,http://www.lowell.k12.mi.us/education/school/school.php?sectiondetailid=11368&backPath=L2VkdWNhdGlvbi9jb21wb25lbnRzL3NlYXJjaC9zZWFyY2gucGhwP3NlY3Rpb25kZXRhaWxpZD0xMTI0Ng==
+http://www.wikidata.org/entity/Q6552317,Linden High School,Linden High School (Michigan),,http://www.lindenschools.org/highschool.html
+http://www.wikidata.org/entity/Q6550738,Lincoln High School,"Lincoln High School (Ypsilanti, Michigan)",,http://www.lincoln.k12.mi.us/vnews/display.v/SEC/School%20Buildings%7CLincoln%20High%20School
+http://www.wikidata.org/entity/Q6487446,Lansing Catholic High School,Lansing Catholic High School,,
+http://www.wikidata.org/entity/Q6479415,Lakewood High School,"Lakewood High School (Lake Odessa, Michigan)",,http://www.lakewoodps.org/index.php/schools/lakewood-high-school
+http://www.wikidata.org/entity/Q6479251,Lakeview High School,"Lakeview High School (St. Clair Shores, Michigan)",,
+http://www.wikidata.org/entity/Q6514439,Lee M. Thurston High School,Lee M. Thurston High School,,
+http://www.wikidata.org/entity/Q6478812,Lakeland High School,Lakeland High School (Michigan),,http://www.huronvalley.k12.mi.us/schools/highschools/lakeland/
+http://www.wikidata.org/entity/Q6724372,Mackenzie High School,Mackenzie High School (Michigan),,
+http://www.wikidata.org/entity/Q6749921,Manistee High School,Manistee High School,,
+http://www.wikidata.org/entity/Q6724800,Macomb Mathematics Science Technology Center,Macomb Mathematics Science Technology Center,,
+http://www.wikidata.org/entity/Q6694565,Loyola High School,Loyola High School (Detroit),,http://www.loyolahsdetroit.org
+http://www.wikidata.org/entity/Q6703185,Lumen Christi Catholic High School,Lumen Christi Catholic School,,http://jcslumenchristi.org/
+http://www.wikidata.org/entity/Q6705711,Lutheran High School Westland,Lutheran High School Westland,,http://www.lhwl.lhsa.com/
+http://www.wikidata.org/entity/Q6761901,Marian High School,Marian High School (Michigan),,http://www.marian-hs.org
+http://www.wikidata.org/entity/Q6765261,Marion Junior-Senior High School,Marion Junior-Senior High School,,http://www.marion.k12.mi.us/schools/middle-high-school
+http://www.wikidata.org/entity/Q6818747,Mercy High School,"Mercy High School (Farmington Hills, Michigan)",,
+http://www.wikidata.org/entity/Q6775677,Martin High School,"Martin High School (Martin, Michigan)",,http://www.martinpublicschools.org/highschool/
+http://www.wikidata.org/entity/Q6922910,Mount Pleasant High School,Mount Pleasant High School (Michigan),,http://mtpleasantschools.net/mphs
+http://www.wikidata.org/entity/Q6837472,Michigan Center High School,Michigan Center Jr/Sr High School,,
+http://www.wikidata.org/entity/Q6814114,Melvindale High School,Melvindale High School,,https://www.melnapschools.com/melvindale/
+http://www.wikidata.org/entity/Q6920175,Mount Clemens High School,Mount Clemens High School,,
+http://www.wikidata.org/entity/Q6776068,Martin Luther King High School,Martin Luther King High School (Detroit),,
+http://www.wikidata.org/entity/Q6789627,Mattawan High School,Mattawan High School,,http://www.mattawanschools.org/hs
+http://www.wikidata.org/entity/Q6771776,Marlette High School,Marlette High School,,http://www.marlette.k12.mi.us/jrsr-high-school/
+http://www.wikidata.org/entity/Q6781763,Marysville High School,"Marysville High School (Marysville, Michigan)",,http://www.marysville.k12.mi.us/1FUDDW4D
+http://www.wikidata.org/entity/Q6942754,Muskegon Catholic Central High School,Muskegon Catholic Central High School,,http://www.muskegoncatholic.org
+http://www.wikidata.org/entity/Q6922925,Mount Pleasant Indian Industrial Boarding School,Mount Pleasant Indian Industrial Boarding School,,
+http://www.wikidata.org/entity/Q6939093,Murray-Wright High School,Murray–Wright High School,,
+http://www.wikidata.org/entity/Q6942758,Muskegon Heights High School,Muskegon Heights High School,,
+http://www.wikidata.org/entity/Q7059473,Northglade Montessori Magnet School,Northglade Montessori Magnet School,,
+http://www.wikidata.org/entity/Q7056164,North Muskegon High School,North Muskegon High School,,
+http://www.wikidata.org/entity/Q7059631,Northport Public School,Northport Public School,,
+http://www.wikidata.org/entity/Q7055345,North Farmington High School,North Farmington High School,,
+http://www.wikidata.org/entity/Q6942759,Muskegon High School,Muskegon High School,,http://www.muskegonpublicschools.org/schools/muskegon/
+http://www.wikidata.org/entity/Q7006727,New Covenant Christian School,"New Covenant Christian School (Lansing, Michigan)",,http://www.nccswarriors.org
+http://www.wikidata.org/entity/Q6965037,Napoleon High School,Napoleon High School (Michigan),,
+http://www.wikidata.org/entity/Q7059879,Northville High School,Northville High School,,
+http://www.wikidata.org/entity/Q7060318,Northwestern High School,Northwestern High School (Michigan),,
+http://www.wikidata.org/entity/Q7081932,Okemos High School,Okemos High School,,http://www.okemosschools.net/education/school/school.php?sectionid=14&linkid=nav-menu-container-1-57318
+http://www.wikidata.org/entity/Q7073670,Oak Park High School,Oak Park High School (Michigan),,http://www.oakparkschools.org/node/152
+http://www.wikidata.org/entity/Q7063462,Notre Dame Preparatory,"Notre Dame Preparatory (Pontiac, Michigan)",,http://www.ndpma.org
+http://www.wikidata.org/entity/Q7073992,Oakland Early College,Oakland Early College,,
+http://www.wikidata.org/entity/Q7064846,Novi High School,Novi High School,,
+http://www.wikidata.org/entity/Q7063434,Notre Dame High School,"Notre Dame High School (Harper Woods, Michigan)",,http://www.ndpma.org/drupal/node/1158
+http://www.wikidata.org/entity/Q7063955,Nouvel Catholic Central High School,Nouvel Catholic Central High School,,http://www.sacschools.org/nouvel/home.aspx
+http://www.wikidata.org/entity/Q7156080,Paw Paw High School,Paw Paw High School (Michigan),,http://www.ppps.org/pphs
+http://www.wikidata.org/entity/Q7109187,Ottawa Hills High School,Ottawa Hills High School (Michigan),,
+http://www.wikidata.org/entity/Q7161599,Pellston High School,Pellston High School,,
+http://www.wikidata.org/entity/Q7163420,Pennfield Senior High School,Pennfield Senior High School,,
+http://www.wikidata.org/entity/Q7094567,Onsted High School,Onsted High School,,http://onsted.ohs.schoolfusion.us/
+http://www.wikidata.org/entity/Q7170168,Pershing High School,Pershing High School,,http://icansoar.org/schools/high-school/pershing-high-school/
+http://www.wikidata.org/entity/Q7115351,Oxford High School,Oxford High School (Michigan),,http://www.oxfordschools.org/section_display.cfm?section_id=14
+http://www.wikidata.org/entity/Q7205800,Plymouth Educational Center,Plymouth Educational Center,,
+http://www.wikidata.org/entity/Q7230695,Port Huron High School,Port Huron High School,,
+http://www.wikidata.org/entity/Q7230697,Port Huron Northern High School,Port Huron Northern High School,,http://phn.phasd.us
+http://www.wikidata.org/entity/Q7231949,Portland High School,Portland High School (Michigan),,
+http://www.wikidata.org/entity/Q7231426,Portage Northern High School,Portage Northern High School,633687,
+http://www.wikidata.org/entity/Q7205752,Plymouth-Canton Educational Park,Plymouth-Canton Educational Park,,http://pcep.pccs.k12.mi.us/
+http://www.wikidata.org/entity/Q7200788,Plainwell High School,Plainwell High School,,
+http://www.wikidata.org/entity/Q7205811,Plymouth High School,Plymouth High School (Michigan),,http://pcep.pccs.k12.mi.us/
+http://www.wikidata.org/entity/Q7179542,Pewamo-Westphalia Community Schools,Pewamo-Westphalia Community Schools,,https://www.pwschools.org/
+http://www.wikidata.org/entity/Q7355242,Rockford High School,Rockford High School (Michigan),,
+http://www.wikidata.org/entity/Q7312420,Renaissance High School,Renaissance High School,,http://detroitk12.org/schools/renaissance/
+http://www.wikidata.org/entity/Q7236811,Powers Catholic High School,Powers Catholic High School,,http://www.powerscatholic.org/
+http://www.wikidata.org/entity/Q7338731,Riverview Community High School,Riverview Community High School,,http://www.riverviewschools.com/education/school/school.php?sectionid=11
+http://www.wikidata.org/entity/Q7308482,Regina High School,Regina High School (Michigan),,http://www.reginahs.com
+http://www.wikidata.org/entity/Q7353983,Rochester High School,Rochester High School (Michigan),,http://www.rochester.k12.mi.us/rochester-high-school/pages/334/rochester-high-school-home-page
+http://www.wikidata.org/entity/Q7330438,Richfield Public School Academy,Richfield Public School Academy,,
+http://www.wikidata.org/entity/Q7252404,Providence Christian School,Providence Christian School (Kalamazoo),,
+http://www.wikidata.org/entity/Q15262587,Northwest High School (Michigan),Northwest High School (Michigan),,http://nwhs.nwschools.org/?sessionid=0e2ff36943a5b685d1b348a24754f481&t
+http://www.wikidata.org/entity/Q15262584,"Northview High School (Grand Rapids, Michigan)",Northview High School (Michigan),,http://www.nvps.net/highschool/index.php?option=com_content&view=frontpage&Itemid=1
+http://www.wikidata.org/entity/Q15232879,Kalamazoo Christian High School,Kalamazoo Christian High School,,
+http://www.wikidata.org/entity/Q15253389,Milford High School (Michigan),Milford High School (Michigan),,http://www.hvs.org/schools/highschools/milford/
+http://www.wikidata.org/entity/Q14875208,International Academy of Macomb,International Academy of Macomb,,http://iamacomb.org/
+http://www.wikidata.org/entity/Q7363385,Romulus Senior High School,Romulus Senior High School,,
+http://www.wikidata.org/entity/Q14716347,Western Michigan Christian High School,Western Michigan Christian High School,,http://www.wmchs.net/
+http://www.wikidata.org/entity/Q7367577,Roscommon High School,Roscommon High School,,http://www.rapsk12.net/subsite/rhs
+http://www.wikidata.org/entity/Q7363094,Romeo High School,Romeo High School,,http://romeo.k12.mi.us/pages/214/romeo-high-school
+http://www.wikidata.org/entity/Q15218396,"Franklin High School (Livonia, Michigan)","Franklin High School (Livonia, Michigan)",,http://lpsfranklin.ss5.sharpschool.com
+http://www.wikidata.org/entity/Q7397102,Sacred Heart Academy High School,"Sacred Heart Academy High School (Mt. Pleasant, Michigan)",,http://www.sha.net
+http://www.wikidata.org/entity/Q7357608,Roeper School,Roeper School (Michigan),,http://www.roeper.org/
+http://www.wikidata.org/entity/Q7369191,Ross Beatty Junior/Senior High School,Ross Beatty Junior/Senior High School,,http://cassopolis.k12.mi.us/ross-beatty/
+http://www.wikidata.org/entity/Q15226536,Hudson High School (Michigan),Hudson High School (Michigan),,
+http://www.wikidata.org/entity/Q7374619,Royal Oak High School,Royal Oak High School,,http://www.royaloakschools.com/portal/?q=rohs
+http://www.wikidata.org/entity/Q15274438,Saint Johns High School,St Johns High School,,http://www.sjredwings.org/highschool/
+http://www.wikidata.org/entity/Q16890420,Clintondale High School,Clintondale High School,,
+http://www.wikidata.org/entity/Q16240936,Bloomfield Hills High School,Bloomfield Hills High School,,http://www.bloomfield.org/schools/bloomfield-hills-high-school/
+http://www.wikidata.org/entity/Q16822090,Austin Catholic High School,Austin Catholic High School (Michigan),,http://austincatholicacademy.org
+http://www.wikidata.org/entity/Q16966503,Eastpointe High School,Eastpointe High School,,http://www.eastpointeschools.org
+http://www.wikidata.org/entity/Q16975073,Oakland University William Beaumont School of Medicine,Oakland University William Beaumont School of Medicine,,http://www.oakland.edu/medicine
+http://www.wikidata.org/entity/Q20725458,University of Michigan Medical School,,,https://medicine.umich.edu/medschool/
+http://www.wikidata.org/entity/Q29075482,Cranbrook Academy of Art,,,http://cranbrookart.edu/
+http://www.wikidata.org/entity/Q7110835,Our Lady of LaSalette School,,,
+http://www.wikidata.org/entity/Q17450167,Buell Elementary School,,,
+http://www.wikidata.org/entity/Q53489323,American Immersion Theater,,,https://americanimmersion.theater
+http://www.wikidata.org/entity/Q63117051,Detroit Museum of Art School,,,
+http://www.wikidata.org/entity/Q65706491,Eagle Elementary School,,,
+http://www.wikidata.org/entity/Q22059667,St. Agatha High School,St. Agatha High School (Michigan),,
+http://www.wikidata.org/entity/Q22059676,St. Francis de Sales High School,"St. Francis de Sales High School (Detroit, Michigan)",,
+http://www.wikidata.org/entity/Q22059684,St. Frederick High School,"St. Frederick High School (Pontiac, Michigan)",,
+http://www.wikidata.org/entity/Q55633577,South Lake High School (Michigan),South Lake High School (Michigan),,https://slhs.solake.org/
