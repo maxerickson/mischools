@@ -108,7 +108,7 @@ for key in worklist:
                 outfile.write("<p>\n")
                 for tag in ['name','addr:housenumber','addr:street',
                                  'addr:city','addr:state','addr:postcode',
-                                 'phone','operator','isced:level','wikidata','website']:
+                                 'phone','operator','isced:level','grades','wikidata','website']:
                     if record[tag]:
                         outfile.write("{}={}<br/>\n".format(tag,record[tag]))
                 if record['wikipedia']:

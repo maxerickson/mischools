@@ -75,7 +75,7 @@ district_renames={
 "Peck Community School District":"Peck Community Schools",
 "Unionville-Sebewaing Area S.D.":"Unionville-Sebewaing Area School District"}
 
-levels=[{"DevK","DevK-Part","KG","KG-Part"},
+levels=[{"DevK","DevK-Part","KG","KG-Part","K-Part"},
             {"1","2","3","4","5"},
             {"6","7","8"},
             {"9","10","11","12"}]
@@ -87,6 +87,27 @@ def parse_grades(grades):
             isced.append(str(n))
     return ";".join(isced)
 
+
+def grade_sort_key(value):
+    if value=="PK":
+        return -1
+    elif value=="K":
+            return 0
+    elif value=="":
+        return -2
+    else:
+            return int(value)
+             
+grade_map={"DevK":"PK",
+                      "DevK-Part":"PK",
+                      "KG":"K",
+                      "KG-Part":"K",
+                      "K-Part":"K"}
+def format_grades(grades):
+    for k,v in grade_map.items():
+        grades=grades.replace(k,v)
+    values=sorted(list(set(grades.split(","))),key=grade_sort_key)
+    return ";".join(values)
 
 wikidata=dict()
 with open("wikidata.csv") as source:
@@ -110,7 +131,8 @@ with open("formatted.csv", 'w') as outfile:
         header[6]="addr:postcode"
         header[7]="operator"
         header[8]="isced:level"
-        header[9]="religion"
+        header[9]="grades"
+        header.append("religion")
         header.append("denomination")
         header.extend(["wikidata","wikipedia","website"])
         header.insert(3,"addr:housenumber")
@@ -139,7 +161,8 @@ with open("formatted.csv", 'w') as outfile:
                 row[7]=row[7].replace("S/D", "School District")
             if row[7] in district_renames:
                 row[7]=district_renames[row[7]]
-            row[8]=parse_grades(row[8])
+            row8=row[8]
+            row[8]=parse_grades(row8)
             #religion affiliation
             if row[9] in denoms:
                 r,d=denoms[row[9]]
@@ -152,6 +175,8 @@ with open("formatted.csv", 'w') as outfile:
             number,street=parse_street(row[3])
             row[3]=street.title()
             row.insert(3,number)
+            # grades
+            row.insert(10,format_grades(row8))
             # add wikidata/wikipedia infos
             if name in wikidata:
                 #~ print(name)
