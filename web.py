@@ -39,7 +39,7 @@ for(var i=0; i<links.length; i++){
 </script>
 </body></html>'''
 
-josmtmpl='''<a class="im" href="https://127.0.0.1:8112/load_and_zoom?left={left}&right={right}&top={top}&bottom={bottom}">JOSM</a>&nbsp;\n'''
+josmtmpl='''<a class="im" href="http://127.0.0.1:8111/load_and_zoom?left={left}&right={right}&top={top}&bottom={bottom}">JOSM</a>&nbsp;\n'''
 idtmpl='''<a href="https://openstreetmap.org/edit?editor=id&lon={lon}&lat={lat}&zoom=17">iD</a>&nbsp;\n'''
 osmtmpl='''<a href="https://openstreetmap.org/#map=17/{lat}/{lon}">OSM</a></br>\n'''
 districtlists=collections.defaultdict(list)
