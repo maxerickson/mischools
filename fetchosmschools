@@ -1,0 +1,4 @@
+#! /bin/bash
+payload='data=area[admin_level=4][name="Michigan"]->.sarea;(nwr["amenity"="school"](area.sarea);nwr[amenity=kindergarten](area.sarea););out center;'
+echo $payload
+curl -o mischools.osm -g http://overpass-api.de/api/interpreter --data-urlencode "$payload"
