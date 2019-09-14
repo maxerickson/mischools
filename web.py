@@ -76,6 +76,10 @@ worklist=['indy']+sorted(alphas.keys())
 alphas['indy']=['indy']
 index=open("docs/index.html","w")
 index.write(head)
+index.write("""<p  style="width:65%">Each link below is to a page of schools, sorted by school district. For most schools, there are links to open
+the geocoded location of the school in iD, JOSM, or on the OpenStreetMap webiste. There's also tags for the school that can be 
+copy and pasted into the editors. In iD, switch the raw tag editor to the text view to paste the tags. In JOSM, select the school object
+and press Control+shift+V.</p>""")
 index.write("<ul>\n")
 locmatches=0
 reviewed_school_count=0
