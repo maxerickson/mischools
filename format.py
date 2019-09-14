@@ -119,71 +119,59 @@ with open("wikidata.csv") as source:
         wikidata[wikiname]=line
 
 with open("formatted.csv", 'w') as outfile:
-    csvout=csv.writer(outfile)
-    with open("reduced.csv") as infile:
-        csvin=csv.reader(infile)
-        header=next(csvin)
-        header[0]="name"
-        header[2]="phone"
-        header[3]="addr:street"
-        header[4]="addr:city"
-        header[5]="addr:state"
-        header[6]="addr:postcode"
-        header[7]="operator"
-        header[8]="isced:level"
-        header[9]="grades"
-        header.append("religion")
-        header.append("denomination")
-        header.extend(["wikidata","wikipedia","website"])
-        header.insert(3,"addr:housenumber")
-        # remove status
-        header.pop(1)
-        csvout.writerow(header)
+    fieldnames=["name","phone","addr:housenumber","addr:street","addr:city",
+                        "addr:state","addr:postcode","operator","isced:level","grades",
+                        "religion","denomination","wikidata","wikipedia","website"]
+    csvout=csv.DictWriter(outfile, restval='',fieldnames=fieldnames, extrasaction='ignore')
+    csvout.writeheader()
+    # The fields used are
+    # EntityOfficialName,EntityStatus,EntityPhone,
+    # EntityPhysicalStreet,EntityPhysicalCity,
+    # EntityPhysicalState,"EntityPhysicalZip4,
+    # DistrictOfficialName,
+    # EntityActualGrades,EntityReligiousOrientationName
+    with open("EEMDataReport") as infile:
+        csvin=csv.DictReader(infile)
+    #~ with open("reduced.csv") as infile:
+        #~ csvin=csv.reader(infile)
+        #~ header=next(csvin)
         for row in csvin:
-            name=expand_school_name(row[0])
-            #~ if "." in name:
-                #~ print(name)
-            row[0]=name
-            #status
-            if row[1]=="Closed":
+            school=dict()
+            school["name"]=expand_school_name(row["EntityOfficialName"])
+            if row["EntityStatus"]=="Closed":
                 continue
             #phone
-            if row[2]:
-                row[2]="+1 "+row[2][:3]+" "+row[2][3:6]+" "+row[2][6:]
+            if row["EntityPhone"]:
+                school["phone"]="+1 "+row["EntityPhone"][:3]+" "+row["EntityPhone"][3:6]+" "+row["EntityPhone"][6:]
+            number,street=parse_street(row["EntityPhysicalStreet"])
+            school["addr:street"]=street.title()
+            school["addr:housenumber"]=number
             #city
-            c=row[4].title().strip()
+            c=row["EntityPhysicalCity"].title().strip()
             if c.startswith("Mc "):
                 c=c.replace("Mc ", "Mc")
-            row[4]=c
+            school["addr:city"]=c
+            school["addr:state"]=row["EntityPhysicalState"]
             #postcode
-            row[6]=row[6][:5]
-            if "S/D" in row[7]:
-                row[7]=row[7].replace("S/D", "School District")
-            if row[7] in district_renames:
-                row[7]=district_renames[row[7]]
-            row8=row[8]
-            row[8]=parse_grades(row8)
+            school["addr:postcode"]=row["EntityPhysicalZip4"][:5]
+            district=row["DistrictOfficialName"]
+            if "S/D" in district:
+                district=district.replace("S/D", "School District")
+            if district in district_renames:
+                district=district_renames[district]
+            school["operator"]=district
+            school["isced:level"]=parse_grades(row["EntityActualGrades"])
+            school["grades"]=format_grades(row["EntityActualGrades"])
             #religion affiliation
-            if row[9] in denoms:
-                r,d=denoms[row[9]]
-                row[9]=r
-                row.append(d)
-            else:
-                row[9]=""
-                row.append("")
-            #housenumber+street, last because of insert
-            number,street=parse_street(row[3])
-            row[3]=street.title()
-            row.insert(3,number)
-            # grades
-            row.insert(10,format_grades(row8))
+            if row["EntityReligiousOrientationName"] in denoms:
+                r,d=denoms[row["EntityReligiousOrientationName"]]
+                school["religion"]=r
+                school["denomination"]=d
             # add wikidata/wikipedia infos
-            if name in wikidata:
+            if school["name"] in wikidata:
                 #~ print(name)
-                wd=wikidata[name]
-                row.append(wd[0].lstrip("http://www.wikidata.org/entity/"))
-                row.append(wd[2])
-                row.append(wd[4])
-            # remove status
-            row.pop(1)
-            csvout.writerow(row)
+                wd=wikidata[school["name"]]
+                school['wikidata']=wd[0].lstrip("http://www.wikidata.org/entity/")
+                school['wikipedia']=wd[2]
+                school['website']=wd[4]
+            csvout.writerow(school)
